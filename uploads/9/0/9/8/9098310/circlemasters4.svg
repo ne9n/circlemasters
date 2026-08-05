@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="circlemasters4.svg"
+   inkscape:export-filename="C:\Users\Dave\Documents\plans\circlemasters3.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4292"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#001007;stop-opacity:1;"
+         offset="0"
+         id="stop4294" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="construct_grid"
+       id="path-effect3822"
+       is_visible="true"
+       nr_x="5"
+       nr_y="5" />
+    <inkscape:path-effect
+       effect="bend_path"
+       id="path-effect3818"
+       is_visible="true"
+       bendpath="m 159.00621,276.26102 56.47945,0"
+       prop_scale="1"
+       scale_y_rel="false"
+       vertical="false" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3802" />
+    <linearGradient
+       id="linearGradient3763"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3765" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4292"
+       id="linearGradient4296"
+       x1="179.49907"
+       y1="582.28211"
+       x2="330.03926"
+       y2="582.28211"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(84.099924,2.1939111)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.367421"
+     inkscape:cx="548.51342"
+     inkscape:cy="413.58874"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3838" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:none"
+       id="path3912"
+       sodipodi:cx="532.5"
+       sodipodi:cy="394.86218"
+       sodipodi:rx="72.5"
+       sodipodi:ry="62.5"
+       d="m 605,394.86218 a 72.5,62.5 0 1 1 -145,0 72.5,62.5 0 1 1 145,0 z" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:none"
+       id="path3914"
+       sodipodi:cx="460"
+       sodipodi:cy="409.86218"
+       sodipodi:rx="100"
+       sodipodi:ry="62.5"
+       d="m 560,409.86218 a 100,62.5 0 1 1 -200,0 100,62.5 0 1 1 200,0 z" />
+    <g
+       id="g3018"
+       transform="translate(-84.099924,-2.1939111)"
+       inkscape:export-filename="C:\Users\Dave\Documents\plans\cmasters4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <a
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Dave\Documents\plans\circlemaster4.png"
+         inkscape:transform-center-y="85.08981"
+         inkscape:transform-center-x="-48.69764"
+         id="a3796">
+        <text
+           inkscape:transform-center-x="0.17830174"
+           transform="matrix(-0.98640383,-0.1643395,0.1643395,-0.98640383,410.74172,1198.9831)"
+           inkscape:transform-center-y="-87.836755"
+           sodipodi:linespacing="125%"
+           id="text3824"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;-inkscape-font-specification:Microsoft Sans Serif"
+           xml:space="preserve"><textPath
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Microsoft Sans Serif;-inkscape-font-specification:Microsoft Sans Serif"
+             id="textPath3845"
+             xlink:href="#path3842"><tspan
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Microsoft Sans Serif;-inkscape-font-specification:Microsoft Sans Serif"
+   x="197.67342"
+   y="542.3233"
+   id="tspan3828">CIRCLE MASTERS</tspan></textPath></text>
+      </a>
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Dave\Documents\plans\circlemaster4.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:0.02053367;stroke-opacity:1"
+         d="m 308.18823,689.22637 c 0,1.45718 -1.18128,2.63846 -2.63846,2.63846 -1.45718,0 -2.63846,-1.18128 -2.63846,-2.63846 0,-1.45718 1.18128,-2.63846 2.63846,-2.63846 1.45718,0 2.63846,1.18128 2.63846,2.63846 z"
+         id="path3834" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Dave\Documents\plans\circlemaster4.png"
+         id="path3842"
+         d="m 380,582.36218 c 0,69.0356 -55.96441,125 -125,125 -69.03559,0 -125,-55.9644 -125,-125 0,-69.03559 55.96441,-125 125,-125 69.03559,0 125,55.96441 125,125 z"
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Dave\Documents\plans\circlemaster4.png"
+         inkscape:connector-curvature="0"
+         id="path3851"
+         d="m 258.43824,582.36218 c 0,1.89889 -1.53935,3.43824 -3.43824,3.43824 -1.89889,0 -3.43824,-1.53935 -3.43824,-3.43824 0,-1.89889 1.53935,-3.43824 3.43824,-3.43824 1.89889,0 3.43824,1.53935 3.43824,3.43824 z"
+         style="fill:none;stroke:#000000;stroke-width:0.02750589;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Dave\Documents\plans\circlemaster4.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:none"
+         d="m 420.55725,582.36218 c 0,-91.43475 -74.12251,-165.55725 -165.55725,-165.55725 -91.43474,0 -165.557246,74.1225 -165.557246,165.55725 0,91.43474 74.122506,165.55725 165.557246,165.55725 91.43474,0 165.55725,-74.12251 165.55725,-165.55725 z"
+         id="path3883" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Dave\Documents\plans\circlemaster4.png"
+         transform="matrix(-0.96911323,0.24661621,-0.24661621,-0.96911323,645.74378,1083.8499)"
+         inkscape:transform-center-y="100.1891"
+         inkscape:transform-center-x="-0.34093934"
+         sodipodi:linespacing="125%"
+         id="text3885"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;-inkscape-font-specification:Microsoft Sans Serif"
+         xml:space="preserve"><textPath
+           id="textPath3894"
+           xlink:href="#path3883">FLYING CLUB AMA 662</textPath></text>
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Dave\Documents\plans\circlemaster4.png"
+         d="m 265.71429,539.86218 c 0,40.04065 -4.63705,72.5 -10.35714,72.5 -5.72009,0 -10.35715,-32.45935 -10.35715,-72.5 0,-40.04064 4.63706,-72.5 10.35715,-72.5 5.72009,0 10.35714,32.45936 10.35714,72.5 z"
+         sodipodi:ry="72.5"
+         sodipodi:rx="10.357142"
+         sodipodi:cy="539.86218"
+         sodipodi:cx="255.35715"
+         id="path3910"
+         style="fill:none;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Dave\Documents\plans\circlemaster4.png"
+         inkscape:connector-curvature="0"
+         style="opacity:0.98999999;fill:none;stroke:url(#linearGradient4296);stroke-width:3.76600003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-mid:none"
+         d="m 328.15626,582.28211 c 0,66.69127 -32.85653,120.75522 -73.3871,120.75522 -40.53057,0 -73.38709,-54.06395 -73.38709,-120.75522 0,-66.69127 32.85652,-120.75522 73.38709,-120.75522 40.53057,0 73.3871,54.06395 73.3871,120.75522 z"
+         id="path3920" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Dave\Documents\plans\circlemaster4.png"
+         id="path4102"
+         d="m 254.76917,655.6692 c -66.69128,0 -120.75522,-32.85653 -120.75522,-73.3871 0,-40.53057 54.06394,-73.38709 120.75522,-73.38709 66.69127,0 120.75522,32.85652 120.75522,73.38709 0,40.53057 -54.06395,73.3871 -120.75522,73.3871 z"
+         style="fill:none;stroke:#001007;stroke-width:3.76550102;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft Sans Serif;-inkscape-font-specification:Microsoft Sans Serif"
+       x="350"
+       y="552.36218"
+       id="text3014"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Dave\Documents\plans\cmasters4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3016"
+         x="350"
+         y="552.36218">Control Line Model Aircraft Club</tspan><tspan
+         sodipodi:role="line"
+         x="350"
+         y="602.36218"
+         id="tspan3035">Milwaukee Wisconsin </tspan></text>
+  </g>
+</svg>
