@@ -1,6 +1,25 @@
-import requests
-r = requests.get('https://api.github.com/repos/ne9n/circlemasters/actions/runs').json()
-jobs_url = r['workflow_runs'][0]['jobs_url']
-jobs = requests.get(jobs_url).json()
-for j in jobs['jobs']:
-    print(f"{j['name']} - {j['status']} - {j['conclusion']}")
+import urllib.request
+import json
+import time
+import sys
+
+url = 'https://api.github.com/repos/ne9n/circlemasters/actions/runs/31176154873/jobs'
+for _ in range(30):
+    try:
+        req = urllib.request.Request(url)
+        with urllib.request.urlopen(req) as response:
+            data = json.loads(response.read())
+            all_completed = True
+            for job in data.get('jobs', []):
+                print(f"Job: {job['name']}, Status: {job['status']}, Conclusion: {job['conclusion']}")
+                if job['status'] != 'completed':
+                    all_completed = False
+            
+            if all_completed:
+                print("All jobs completed!")
+                sys.exit(0)
+    except Exception as e:
+        print(f"Error: {e}")
+        
+    time.sleep(10)
+print("Timeout waiting for jobs to complete.")
