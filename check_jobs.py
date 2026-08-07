@@ -3,7 +3,7 @@ import json
 import time
 import sys
 
-url = 'https://api.github.com/repos/ne9n/circlemasters/actions/runs/31176154873/jobs'
+url = 'https://api.github.com/repos/ne9n/circlemasters/actions/runs/31176826608/jobs'
 for _ in range(30):
     try:
         req = urllib.request.Request(url)
@@ -21,5 +21,5 @@ for _ in range(30):
     except Exception as e:
         print(f"Error: {e}")
         
-    time.sleep(10)
+    time.sleep(5)
 print("Timeout waiting for jobs to complete.")
