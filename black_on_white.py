@@ -32,11 +32,9 @@ for file_path in html_files:
             # Remove background-color: ...;
             style = re.sub(r'(?i)\bbackground-color\s*:[^;]+;?', '', style)
             
-            # Remove background-image: ...;
-            style = re.sub(r'(?i)\bbackground-image\s*:[^;]+;?', '', style)
-            
-            # Remove background: ...;
-            style = re.sub(r'(?i)\bbackground\s*:[^;]+;?', '', style)
+            # Remove background: ...; but ONLY if it doesn't contain url()
+            if 'url(' not in style.lower():
+                style = re.sub(r'(?i)\bbackground\s*:[^;]+;?', '', style)
             
             if style != original_style:
                 tag['style'] = style.strip()
