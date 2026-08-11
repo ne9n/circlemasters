@@ -38,6 +38,7 @@ hierarchy = [
         ("Meetings", "./meetings.html")
     ]),
     ("Newsletters", "#", [
+        ("2025-2026 Newsletters", "./2025-2026-club-newsletters.html"),
         ("2021 Newsletter", "./2021-club-newsletter.html"),
         ("2020 Newsletter", "./2020-club-newsletter.html"),
         ("2019 Newsletter", "./2019-club-newsletter.html"),
