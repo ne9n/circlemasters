@@ -49,6 +49,7 @@ What began decades ago as an informal demonstration by Wisconsin modelers has gr
 
 * **Over Three Decades of Dedication:** Coordinated in deep partnership with the **Circle Masters Flying Club** and championed by longtime organizers, pilots, and innovators including **Doug & Geri MacArthur**, **Chris Sterner**, **Dave Siegler**, **DC Jensen**, **Steve Mills**, **Dan McEntee**, and **Sean McEntee**, along with volunteer aeromodelers from across North America.
 * **Over 25,000 First Flights:** Spanning generations of AirVenture attendees, the volunteer team has provided more than 25,000 instructional flights to young pilots and curious adults.
+* **A Global Destination for Youth:** With AirVenture drawing attendees from more than 80 countries, the Pioneer Airport circles become a melting pot of international aviation enthusiasm. Children and families visiting from Europe, South America, Asia, Australia, and Africa step up to fly side-by-side, united by the universal language of model aviation and the thrill of holding the lines.
 * **Seven Days of Non-Stop Operation:** Operating two active circles side-by-side from 9:00 AM to 3:30 PM Monday through Saturday, and concluding with a high-tempo Sunday session until 2:00 PM.
 
 ---

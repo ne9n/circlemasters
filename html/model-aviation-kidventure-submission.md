@@ -44,8 +44,9 @@ What began more than three decades ago as an informal demonstration by Wisconsin
 Coordinated in partnership with the **Circle Masters Flying Club** and championed by dedicated organizers like **Doug & Geri MacArthur**, **Chris Sterner**, **Dave Siegler**, **DC Jensen**, **Steve Mills**, **Dan McEntee**, and **Sean McEntee**, the program operates all seven days of AirVenture:
 
 * **High-Tempo Operations:** Running continuously from 9:00 AM to 3:30 PM Monday through Saturday, and wrapping up with a spirited Sunday session until 2:00 PM.
-* **A Milestone Reached:** Over the course of 30 years, the volunteer corps has provided **over 25,000 individual instructional flights** to children, teenagers, and curious adults from every continent.
-* **National Volunteer Brotherhood:** While spearheaded locally, instructors travel to Oshkosh from clubs all over the United States and Canada, uniting annually around a shared passion for aeromodeling education.
+* **A Milestone Reached:** Over the course of 30 years, the volunteer corps has provided **over 25,000 individual instructional flights** to children, teenagers, and curious adults.
+* **A Truly Global Flight Line:** With EAA AirVenture attracting visitors from over 80 nations each year, the KidVenture control line circles welcome youth and families from every continent—from across North America and Europe to Australia, Japan, Brazil, and South Africa. On the circle, language barriers vanish; hand gestures, shared excitement, and the universal feel of control lines connect international visitors in a shared celebration of flight.
+* **National and International Volunteer Brotherhood:** While spearheaded locally by Circle Masters, instructors and aeromodeling ambassadors travel to Oshkosh from across the United States, Canada, France, and beyond, uniting annually around a shared passion for youth flight education.
 
 ---
 
