@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flying on the Wires of Oshkosh - Control Line at EAA KidVenture | Circle Masters Flying Club</title>
+    <meta property="og:site_name" content="Circle Masters Flying Club" />
+    <meta property="og:title" content="Flying on the Wires of Oshkosh: The Story and Spirit of Control Line at EAA KidVenture" />
+    <meta property="og:description" content="Discover how dedicated aeromodeling volunteers, the Eagle One trainer, and hands-on flight coaching have introduced over 25,000 youth to control line aviation at EAA AirVenture Oshkosh." />
+    
+    <style id="global-layout-styles">
+        body { 
+            max-width: 1200px; 
+            margin: 0 auto; 
+            padding: 0 20px; 
+            box-sizing: border-box; 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            color: #333;
+            line-height: 1.6;
+            background-color: #fcfcfc;
+        }
+        
+        .simple-nav { 
+            padding: 10px; 
+            background: #222; 
+            margin-bottom: 25px; 
+            border-radius: 6px;
+            position: relative; 
+            z-index: 1000; 
+        }
+        .simple-nav ul { list-style: none; margin: 0; padding: 0; }
+        .simple-nav > ul { display: flex; flex-wrap: wrap; gap: 5px; }
+        .simple-nav li { position: relative; }
+        .simple-nav a { display: block; padding: 10px 18px; color: #ddd; text-decoration: none; border-radius: 4px; transition: background 0.2s; font-size: 14px; }
+        .simple-nav a:hover { background: #444; color: #fff; }
+        .simple-nav ul ul { display: none; position: absolute; top: 100%; left: 0; background: #333; min-width: 220px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 0 0 4px 4px; overflow: hidden; padding: 0; }
+        .simple-nav li:hover > ul { display: block; }
+        .simple-nav ul ul li { width: 100%; border-bottom: 1px solid #444; }
+        .simple-nav ul ul li:last-child { border-bottom: none; }
+        .simple-nav ul ul a { padding: 10px 18px; border-radius: 0; }
+
+        .article-container {
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+            margin-bottom: 40px;
+        }
+
+        h1.article-title {
+            color: #1a2530;
+            font-size: 2.2rem;
+            margin-top: 0;
+            line-height: 1.25;
+        }
+
+        .article-subtitle {
+            font-size: 1.15rem;
+            color: #555;
+            font-style: italic;
+            margin-bottom: 20px;
+        }
+
+        .article-meta {
+            font-size: 0.9rem;
+            color: #777;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #eaeaea;
+            margin-bottom: 30px;
+        }
+
+        .quote-banner {
+            background: #eef6fc;
+            border-left: 5px solid #0073e6;
+            padding: 18px 24px;
+            margin: 25px 0 35px 0;
+            border-radius: 0 6px 6px 0;
+            font-size: 1.1rem;
+            font-weight: 500;
+            color: #0b3d6c;
+        }
+
+        h2 {
+            color: #1b365d;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 8px;
+            margin-top: 40px;
+        }
+
+        h3 {
+            color: #2c4d6f;
+            margin-top: 25px;
+        }
+
+        .profile-card {
+            background: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-left: 4px solid #3b82f6;
+            padding: 16px 20px;
+            margin-bottom: 20px;
+            border-radius: 0 6px 6px 0;
+        }
+
+        .profile-card h4 {
+            margin: 0 0 6px 0;
+            color: #1e3a8a;
+            font-size: 1.1rem;
+        }
+
+        .profile-card .role-badge {
+            display: inline-block;
+            background: #e0f2fe;
+            color: #0369a1;
+            font-size: 0.8rem;
+            font-weight: 600;
+            padding: 2px 8px;
+            border-radius: 4px;
+            margin-bottom: 10px;
+        }
+
+        .specs-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0 30px 0;
+        }
+
+        .specs-table th, .specs-table td {
+            border: 1px solid #cbd5e1;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .specs-table th {
+            background-color: #f1f5f9;
+            color: #334155;
+            font-weight: 600;
+        }
+
+        .specs-table tr:nth-child(even) {
+            background-color: #f8fafc;
+        }
+
+        .video-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .video-card {
+            background: #f8fafc;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            border: 1px solid #e2e8f0;
+        }
+
+        .video-wrapper {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 */
+            height: 0;
+        }
+
+        .video-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+        }
+
+        .video-info {
+            padding: 14px;
+        }
+
+        .video-info h4 {
+            margin: 0 0 6px 0;
+            font-size: 0.95rem;
+            color: #0f172a;
+        }
+
+        .video-info p {
+            margin: 0;
+            font-size: 0.85rem;
+            color: #64748b;
+        }
+
+        .resource-links {
+            background: #f1f5f9;
+            padding: 24px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+
+        .resource-links ul {
+            margin: 0;
+            padding-left: 20px;
+        }
+
+        .resource-links li {
+            margin-bottom: 8px;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 20px 0;
+            color: #888;
+            font-size: 0.85rem;
+        }
+    </style>
+</head>
+<body>
+
+<div class="simple-nav">
+    <ul>
+        <li><a href="./">Home</a></li>
+        <li><a href="#">Club Info ▾</a>
+            <ul>
+                <li><a href="./about-the-club.html">About the Club</a></li>
+                <li><a href="./membership-and-contact-information.html">Membership & Contact</a></li>
+                <li><a href="./administration.html">Administration</a></li>
+                <li><a href="./awards.html">Awards</a></li>
+                <li><a href="./privacy_policy.html">Privacy Policy</a></li>
+            </ul>
+        </li>
+        <li><a href="#">Locations & Meetings ▾</a>
+            <ul>
+                <li><a href="./flying-location.html">Flying Location</a></li>
+                <li><a href="./dan-tetzlaff-flying-field-dedication.html">Dan Tetzlaff Field Dedication</a></li>
+                <li><a href="./club-meetings.html">Club Meetings</a></li>
+                <li><a href="./meetings.html">Meetings</a></li>
+            </ul>
+        </li>
+        <li><a href="#">Newsletters ▾</a>
+            <ul>
+                <li><a href="./newsletters/2025-2026-club-newsletters.html">2025-2026 Newsletters</a></li>
+                <li><a href="./newsletters/2024-club-newsletters.html">2024 Newsletter</a></li>
+                <li><a href="./newsletters/2023-club-newsletters.html">2023 Newsletter</a></li>
+                <li><a href="./newsletters/2022-club-newsletters.html">2022 Newsletter</a></li>
+            </ul>
+        </li>
+        <li><a href="#">Control Line Links & Plans ▾</a>
+            <ul>
+                <li><a href="./control-line-overview.html">Control Line Overview</a></li>
+                <li><a href="./getting-started.html">Getting Started</a></li>
+                <li><a href="./plans/plans-page.html">Plans Page</a></li>
+            </ul>
+        </li>
+        <li><a href="#">Special ▾</a>
+            <ul>
+                <li><a href="./kidventure.html">EAA Kidventure</a></li>
+                <li><a href="./kidventure-feature-article.html">KidVenture Feature Article</a></li>
+                <li><a href="./eagle-1-airplane-kidventure.html">Eagle 1 Airplane Kidventure</a></li>
+                <li><a href="./pictures-videos.html">Pictures & Videos</a></li>
+                <li><a href="./daves-blog.html">Dave's Blog</a></li>
+                <li><a href="./chriss-blog.html">Chris's Blog</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+<div class="article-container">
+    <h1 class="article-title">Flying on the Wires of Oshkosh: The Story and Spirit of Control Line Aviation at EAA KidVenture</h1>
+    <div class="article-subtitle">How dedicated aeromodeling volunteers, the Eagle One trainer, and hands-on flight coaching have introduced over 25,000 youth to flight at EAA AirVenture.</div>
+    <div class="article-meta">
+        Published by <strong>Circle Masters Flying Club</strong> & Aeromodeling Community Contributors · References: EAA KidVenture, KV Control Line, KITPLANES Magazine, AMA Blog & StuntHanger.com
+    </div>
+
+    <div class="quote-banner">
+        "Planting the seed of interest in aviation, one kid at a time!" <br />
+        <span style="font-size:0.9rem; font-weight:normal; color:#475569;">— EAA KidVenture Control Line Team Motto</span>
+    </div>
+
+    <h2>1. Tangible Flight on the Pioneer Turf</h2>
+    <p>Every summer, more than 600,000 aviation enthusiasts travel from across the globe to Wittman Regional Airport in Oshkosh, Wisconsin, for <strong>EAA AirVenture</strong>. While the main flight line roars with modern fighters, vintage warbirds, and experimental homebuilts, one of the most transformative hands-on aviation experiences takes place at <strong>KidVenture</strong>, situated across the grass of historic Pioneer Airport (and expanding into Discovery Park).</p>
+    
+    <p>As noted by renowned aerodynamicist and aeronautical engineer <strong>Barnaby Wainfan</strong> in <em>KITPLANES Magazine</em>, KidVenture gives youth an authentic, physical introduction to the laws of aerodynamics. While children can build air rockets, buck rivets, and try computer simulators across the KidVenture grounds, it is on the <strong>manicured grass control line circles</strong> where flight theory turns into direct physical sensation.</p>
+    
+    <p>Gripping a control handle tethered to dual stainless-steel flying lines, a young pilot experiences:</p>
+    <ul>
+        <li><strong>The Centrifugal Pull:</strong> The outward physical tension generated by circular flight speed.</li>
+        <li><strong>Direct Elevator Authority:</strong> The immediate mechanical pitch response transferred through wrist movements to the bellcrank and elevator.</li>
+        <li><strong>The Thrill of Command:</strong> Complete, real-time control over an airborne machine.</li>
+    </ul>
+
+    <h2>2. A 30-Year Heritage: Over 25,000 First Flights</h2>
+    <p>What began decades ago as an informal demonstration by Wisconsin modelers has grown into an internationally recognized flight-training operation sanctioned and celebrated by both the <strong>Experimental Aircraft Association (EAA)</strong> and the <strong>Academy of Model Aeronautics (AMA)</strong>:</p>
+    <ul>
+        <li><strong>Over Three Decades of Dedication:</strong> Coordinated in deep partnership with the <strong>Circle Masters Flying Club</strong> and championed by longtime organizers, pilots, and innovators including <strong>Doug & Geri MacArthur</strong>, <strong>Chris Sterner</strong>, <strong>Dave Siegler</strong>, <strong>DC Jensen</strong>, <strong>Steve Mills</strong>, <strong>Dan McEntee</strong>, and <strong>Sean McEntee</strong>, along with volunteer aeromodelers from across North America.</li>
+        <li><strong>Over 25,000 First Flights:</strong> Spanning generations of AirVenture attendees, the volunteer team has provided more than 25,000 instructional flights to young pilots and curious adults.</li>
+        <li><strong>Seven Days of Non-Stop Operation:</strong> Operating two active circles side-by-side from 9:00 AM to 3:30 PM Monday through Saturday, and concluding with a high-tempo Sunday session until 2:00 PM.</li>
+    </ul>
+
+    <h2>3. The Volunteer Engine: Camp Scholler & The Community</h2>
+    <p>Running continuous flight operations under the summer heat requires a dedicated, well-drilled volunteer corps. Enthusiasts who connect year-round on forums like <strong>StuntHanger.com</strong> converge at Oshkosh to donate their time and energy:</p>
+    <ul>
+        <li><strong>Basecamp at Camp Scholler:</strong> Volunteers establish a shared camp compound in Camp Scholler, complete with community breakfasts, evening debriefs, and legendary "hangar flying" sessions under the stars.</li>
+        <li><strong>The Annual Wednesday Volunteer BBQ:</strong> A cherished AirVenture tradition bringing together pit crews, battery managers, and flight coaches to celebrate their shared mission.</li>
+        <li><strong>The "Hands-on-Handle" Instructional Method:</strong> Every student is paired one-on-one with a veteran pilot who stands directly in the center of the circle, resting a steadying hand over the student’s on the handle. The instructor guides gentle wrist movement, prevents over-controlling, and ensures that the student remains in safe, confident command.</li>
+    </ul>
+
+    <h2>4. Volunteer Profiles: Voices from the Flight Line</h2>
+    
+    <div class="profile-card">
+        <h4>Geri MacArthur</h4>
+        <span class="role-badge">National Volunteer Coordinator</span>
+        <p>Directs the national volunteer corps, coordinating schedules for dozens of instructors arriving from across North America. Geri manages the 4-hour daily volunteer rotations, safety briefings, and the legendary Wednesday night Volunteer BBQ. Under her and Doug MacArthur's leadership, the KidVenture CL area has become a welcoming family for volunteers and attendees alike.</p>
+    </div>
+
+    <div class="profile-card">
+        <h4>Dan and Sean McEntee</h4>
+        <span class="role-badge">Flight Coaches & Technical Pit Crew</span>
+        <p>Well-known leaders in the control line community and active StuntHanger contributors, Dan and Sean McEntee represent the family-driven heart of aeromodeling. Bringing deep technical craftsmanship, engine/motor tuning, and patient coaching to Pioneer Airport, the McEntees work the circles all week long to ensure every child experiences the thrill of flight safely and successfully.</p>
+    </div>
+
+    <div class="profile-card">
+        <h4>Arthur Johnson (AMA #1825)</h4>
+        <span class="role-badge">Veteran Flight Instructor & AMA District VI Contest Director</span>
+        <p>An AMA member since 1953 with more than 60 years of aeromodeling expertise. Arthur emphasizes the profound value of grassroots youth outreach, noting that the true reward of Oshkosh is witnessing the "lightbulb moment" when a child steps into the circle, overcomes their initial hesitation, and experiences pure flight command on the wires.</p>
+    </div>
+
+    <div class="profile-card">
+        <h4>Robert "Bob" Arata (AMA #8786)</h4>
+        <span class="role-badge">Flight Instructor, USAF Veteran & Master Aircraft Mechanic</span>
+        <p>A fixture on the Pioneer Airport turf for decades, Bob utilized his extensive mechanical background and steady coaching demeanor to guide thousands of first-time flyers. Bob’s emphasis on the dual-handle technique ensured that even during sudden maneuvers or gusty conditions, every child enjoyed a safe, confidence-building flight.</p>
+    </div>
+
+    <h2>5. Engineering the Ultimate Trainer: Chris Sterner's "Eagle One"</h2>
+    <p>Operating high-tempo rotations with hundreds of first-time pilots each day means aircraft must withstand what Barnaby Wainfan aptly described as "unplanned intersections with the ground." Designer <strong>Chris Sterner</strong> engineered the <strong>Eagle One Trainer</strong> specifically to meet this demanding challenge:</p>
+
+    <table class="specs-table">
+        <thead>
+            <tr>
+                <th>Specification</th>
+                <th>Details</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Wingspan</strong></td>
+                <td>30-1/4 inches</td>
+            </tr>
+            <tr>
+                <td><strong>Wing Area</strong></td>
+                <td>225 sq. inches</td>
+            </tr>
+            <tr>
+                <td><strong>Airframe Material</strong></td>
+                <td>0.158″ Fluted Polypropylene (Coroplast)</td>
+            </tr>
+            <tr>
+                <td><strong>Assembly Method</strong></td>
+                <td>High-Strength Hot-Melt Adhesive along all seams</td>
+            </tr>
+            <tr>
+                <td><strong>Power System</strong></td>
+                <td>2807 1300KV Brushless Outrunner Motor & ESC</td>
+            </tr>
+            <tr>
+                <td><strong>Flight Timing Unit</strong></td>
+                <td>Custom Solid-State Electronic Timer (developed with Dave Siegler)</td>
+            </tr>
+            <tr>
+                <td><strong>Control Hardware</strong></td>
+                <td>1/2-A Bellcrank, 1/16″ Music Wire Pushrod, 1/2-A Handle</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p><strong>The Transition to Electric Power:</strong> While earlier decades relied on legendary <em>Cox .049 glow engines</em>, the fleet modernized to <strong>brushless electric power</strong>. This transition eliminated hot-engine restarts, messy fuel residue, and needle valve adjustments, while electronic timers ensure consistent RPM and a predictable soft cutoff for landing.</p>
+
+    <h2>6. Video Archive: KidVenture in Live Action</h2>
+    <div class="video-grid">
+        <div class="video-card">
+            <div class="video-wrapper">
+                <iframe src="https://www.youtube.com/embed/LLvLptZO51Q" allowfullscreen></iframe>
+            </div>
+            <div class="video-info">
+                <h4>Geri MacArthur & Flight Line Overview</h4>
+                <p>Featuring Dave Siegler, DC Jensen, and Steve Mills discussing flight line setup, coaching demonstrations, and electric trainers.</p>
+            </div>
+        </div>
+
+        <div class="video-card">
+            <div class="video-wrapper">
+                <iframe src="https://www.youtube.com/embed/3VVK0B_YBp8" allowfullscreen></iframe>
+            </div>
+            <div class="video-info">
+                <h4>Arthur Johnson (AMA #1825)</h4>
+                <p>Arthur Johnson discusses 60+ years in aeromodeling and the joy of teaching young pilots at KidVenture.</p>
+            </div>
+        </div>
+
+        <div class="video-card">
+            <div class="video-wrapper">
+                <iframe src="https://www.youtube.com/embed/_k9OipR_-4w" allowfullscreen></iframe>
+            </div>
+            <div class="video-info">
+                <h4>Bob Arata (AMA #8786)</h4>
+                <p>Bob Arata shares insights on dual-handle flight coaching, safety, and decades of volunteering at Pioneer Airport.</p>
+            </div>
+        </div>
+
+        <div class="video-card">
+            <div class="video-wrapper">
+                <iframe src="https://www.youtube.com/embed/GFOkGf6pCP8" allowfullscreen></iframe>
+            </div>
+            <div class="video-info">
+                <h4>KidVenture Flight Line Highlights</h4>
+                <p>Action footage showing high-tempo student flights and Precision Aerobatics (CL Stunt) airshow demonstrations.</p>
+            </div>
+        </div>
+    </div>
+
+    <h2>7. The Flight Experience: From Takeoff to Stunt Airshow</h2>
+    <p><strong>1. Pre-Flight Orientation:</strong> Ground crew instructors explain the physics: tilting the wrist backward pulls the top line, raising the elevator to climb; tilting forward commands a descent.</p>
+    <p><strong>2. The First Flight:</strong> As the electric timer engages and the propeller spins up, the pit crew releases the model. Within half a lap, the Eagle One lifts off. The immediate tactile feedback—feeling the tension and hearing the motor hum on the wire—creates an instant, memorable connection to flight.</p>
+    <p><strong>3. Precision Aerobatics (CL Stunt) Airshows:</strong> Between training flights, master aeromodelers take to the circle flying full-size competition stunt aircraft on 60-foot lines. Performing consecutive inside loops, inverted horizontal passes, vertical eights, and the cloverleaf, these demonstrations show young pilots the highest levels of the sport.</p>
+
+    <h2>8. Sustaining the Spark: Taking Flight Home</h2>
+    <p>KidVenture’s mission is to launch lifelong aviation journeys:</p>
+    <ul>
+        <li><strong>Free Eagle One Plans:</strong> Complete construction drawings, templates, and bills of materials for the Eagle One are distributed <strong>free of charge</strong> at <a href="./eagle-1-airplane-kidventure.html">Circle Masters Flying Club</a> and <a href="https://kvcontrolline.weebly.com/" target="_blank">KV Control Line</a> so families can build their own trainers at home.</li>
+        <li><strong>Local Mentorship:</strong> Families are directed to local chartered <strong>Academy of Model Aeronautics (AMA)</strong> clubs and online modeling communities such as <a href="https://stunthanger.com" target="_blank">StuntHanger.com</a> to find local mentors and flying sites.</li>
+        <li><strong>The "Great Works of Flight" Gallery:</strong> Builders who complete an Eagle One at home are invited to share photos of their models by emailing the team at <a href="mailto:kidventurecl@outlook.com">kidventurecl@outlook.com</a>.</li>
+    </ul>
+
+    <div class="resource-links">
+        <h3 style="margin-top:0;">Resource & Reference Links</h3>
+        <ul>
+            <li><strong>Official EAA KidVenture:</strong> <a href="https://www.eaa.org/airventure/features-and-attractions/kidventure" target="_blank">eaa.org/airventure/features-and-attractions/kidventure</a></li>
+            <li><strong>Circle Masters Flying Club:</strong> <a href="./">circlemasters.com</a></li>
+            <li><strong>KidVenture Control Line Volunteer Portal:</strong> <a href="https://kvcontrolline.weebly.com/what-is-kidventure.html" target="_blank">kvcontrolline.weebly.com</a></li>
+            <li><strong>KITPLANES Magazine Feature (Barnaby Wainfan):</strong> <a href="https://www.kitplanes.com/flying-lessons-at-kidventure/" target="_blank">kitplanes.com/flying-lessons-at-kidventure</a></li>
+            <li><strong>AMA Blog Feature (20-Year Milestone):</strong> <a href="https://amablog.modelaircraft.org/blog/control-line-enthusiasts-celebrate-20-years-at-eaa-kidventure/" target="_blank">amablog.modelaircraft.org/.../control-line-enthusiasts-celebrate-20-years-at-eaa-kidventure</a></li>
+            <li><strong>Stunt Hanger Model Aviation Forum:</strong> <a href="https://stunthanger.com" target="_blank">stunthanger.com</a></li>
+        </ul>
+    </div>
+</div>
+
+<div class="footer">
+    <p>&copy; Circle Masters Flying Club · Dedicated to the Promotion and Preservation of Model Aviation</p>
+</div>
+
+</body>
+</html>
