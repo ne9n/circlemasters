@@ -53,6 +53,7 @@ Over three decades, the training fleet evolved through five distinct generations
 ## 4. Volunteer Team & Leadership
 * **Doug & Geri MacArthur:** National volunteer coordinators managing 4-hour shifts, logistics, safety orientations, and the annual Wednesday volunteer BBQ.
 * **Dan & Sean McEntee:** Veteran flight coaches and pit crew members active in the national CL and StuntHanger community.
+* **Jim & Julie Krueger:** Longtime core volunteers providing one-on-one student coaching, ground operations, and flight line coordination.
 * **The Late Arthur Johnson (AMA #1825):** AMA member since 1953 and longtime District VI CD; master engine technician and technical owner of all fleet aircraft who kept engines flawlessly tuned and airworthy.
 * **The Late Robert "Bob" Arata (AMA #8786):** USAF veteran, aircraft mechanic, designer of the **Skybaby**, and co-designer of the **Tuf Baby**, who guided thousands of students with the dual-handle coaching method.
 * **Camp Scholler:** Shared camping base for instructors traveling from across North America and Europe.

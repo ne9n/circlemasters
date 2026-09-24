@@ -92,6 +92,7 @@ Over 30 years, generous aeromodeling manufacturers and partners have kept the fl
 ## Volunteers and Leadership
 * **Doug & Geri MacArthur:** Lead coordinators managing daily 4-hour shift rotations, logistics, and volunteer hospitality.
 * **Dan & Sean McEntee:** Active flight coaches, pit mechanics, and StuntHanger contributors supporting line maintenance and instruction.
+* **Jim & Julie Krueger:** Dedicated longtime flight line volunteers assisting with student flight coaching, flight line operations, and student management.
 * **The Late Arthur Johnson (AMA #1825):** AMA member since 1953 and longtime District VI CD; master engine technician and technical owner of all fleet aircraft who kept engines flawlessly tuned and flight-ready.
 * **The Late Robert "Bob" Arata (AMA #8786):** USAF veteran, aircraft mechanic, and designer of the **Skybaby** and co-designer of the **Tuf Baby**, who taught thousands of beginners using the dual-handle coaching method.
 * **Camp Scholler & Wednesday BBQ:** Volunteers camp together at Camp Scholler and host an annual Wednesday evening BBQ.
