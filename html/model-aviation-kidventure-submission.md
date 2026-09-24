@@ -24,6 +24,7 @@ Holding the control handle tethered to dual steel lines, first-time flyers direc
 * **Flight Volume:** Over 25,000 instructional flights logged over 30+ years.
 * **Schedule:** 7 days during AirVenture week (Mon–Sat: 9:00 AM – 3:30 PM; Sun: 9:00 AM – 2:00 PM).
 * **Two Flight Circles:** Continuous simultaneous operation with dedicated flight coaches and ground crews.
+* **Field Conditions:** Hard-packed turf circles facing frequently hot, humid, and windy summer weather conditions across Pioneer Airport.
 * **Tight Airspace Compatibility:** Control line is uniquely suited to EAA's congested airspace. Because models are tethered to a fixed radius (50–60 ft lines), flights operate safely within a strictly defined envelope without conflicting with nearby full-scale traffic.
 * **Pioneer Airport Location:** The circles operate directly adjacent to the active Pioneer Airport turf runway and helipad used for continuous **Bell 47 helicopter passenger rides**.
 * **Global Participation:** Serves attendees from across the United States and over 80 countries worldwide.
@@ -31,15 +32,16 @@ Holding the control handle tethered to dual steel lines, first-time flyers direc
 ---
 
 ### [PHOTO 2: One-on-One Flight Coaching]
-*Caption: An instructor uses the dual-handle technique to guide a student through takeoff and level flight.*
+*Caption: An instructor uses the dual-handle technique while a pit volunteer hand-launches the aircraft into the wind.*
 
 ---
 
-## Instructional Technique
-1. **Pre-Flight Briefing:** Students learn that tilting the wrist back pulls the top line to pitch the elevator up (climb), while tilting forward pitches the elevator down (descent). Instructors emphasize keeping the arm steady to maintain line tension.
-2. **Dual-Handle Takeoff:** The instructor stands with the student in the center of the circle, placing a guiding hand over the student's on the handle.
-3. **In-Flight Control:** Within half a lap, the plane lifts off. Once the student establishes level flight, the instructor gradually releases control to the student.
-4. **Landing:** Electronic timers automatically ramp down motor power for a gentle glide and touchdown on the grass.
+## Instructional Technique & Hand-Launch Protocol
+1. **Pre-Flight Briefing:** Students learn that tilting the wrist back pulls the top line to pitch the elevator up (climb), while tilting forward pitches the elevator down (descent). Instructors emphasize keeping the arm steady to maintain line tension against Oshkosh winds.
+2. **Dedicated Hand Launch:** Models omit landing gear for grass durability. A pit crew volunteer holds the plane at the circle perimeter, points it downwind/crosswind, and performs a smooth **hand launch** once the motor spins up to full power.
+3. **Dual-Handle Coaching:** The instructor stands in the center of the circle with a guiding hand over the student's on the handle, immediately stabilizing the climb out.
+4. **In-Flight Control:** Once level flight and solid line tension are established, the instructor releases direct control to the student.
+5. **Belly Landing:** Electronic timers automatically ramp down motor power for a gentle belly skid and touchdown on the hard-packed grass.
 
 ---
 

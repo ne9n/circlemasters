@@ -13,11 +13,13 @@ At EAA AirVenture in Oshkosh, Wisconsin, the Control Line (CL) area at Pioneer A
 
 ---
 
-## 2. Key Operations Data & Airspace Fit
+## 2. Operations Data, Field Conditions & Airspace Fit
 * **30+ Years of Operation:** Initiated by Wisconsin modelers and supported by the Circle Masters Flying Club, EAA, and AMA.
 * **25,000+ Flights Logged:** Provided free flight instruction to youth from over 80 countries.
 * **7-Day AirVenture Schedule:** Monday–Saturday: 9:00 AM – 3:30 PM; Sunday: 9:00 AM – 2:00 PM.
-* **Dual Flight Circles:** Two simultaneous turf circles operating continuously.
+* **Two Flight Circles:** Two simultaneous turf circles operating continuously.
+* **Hand-Launch Operations:** Aircraft omit landing gear for grass durability; ground crew members hand-launch each plane into the wind.
+* **Field & Weather Conditions:** Flights operate over hard-packed grass under frequently hot, humid, and windy Wisconsin summer conditions.
 * **Tight Airspace Compatibility:** Control line is ideal for EAA's congested airspace. Because airplanes remain physically tethered to a fixed 50–60 ft radius, flights stay contained within a safe, predictable volume without infringing on full-scale traffic.
 * **Adjacent to Bell 47 Runway:** The circles operate immediately adjacent to the active Pioneer Airport turf runway and helipad where iconic **Bell 47 helicopters** provide continuous passenger rides throughout AirVenture.
 
