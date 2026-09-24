@@ -1,6 +1,6 @@
 # 30 Years of Control Line Flight at EAA KidVenture
 
-**By David Siegler & Chris Sterner**  
+**By Chris Sterner (Chairman), Don Dargle (Co-Chairman), and Dave Siegler (Co-Chairman)**  
 *Circle Masters Flying Club* | [circlemasters.com](https://circlemasters.com)
 
 ---
@@ -53,6 +53,9 @@ Over three decades, the training fleet evolved through five distinct generations
 ---
 
 ## 4. Volunteer Team, Leadership & How to Join
+* **Chris Sterner:** Current Chairman of the KidVenture Control Line program and designer of the Eagle 1 trainer.
+* **Don Dargle:** Co-Chairman and flight line operations coordinator.
+* **Dave Siegler:** Co-Chairman, developer of the solid-state electronic timer, and club coordinator.
 * **Doug & Geri MacArthur:** National volunteer coordinators managing 4-hour shifts, logistics, safety orientations, and the annual Wednesday volunteer BBQ.
 * **Dan & Sean McEntee:** Veteran flight coaches and pit crew members active in the national CL and StuntHanger community.
 * **Jim & Julie Krueger:** Longtime core volunteers providing one-on-one student coaching, ground operations, and flight line coordination.
