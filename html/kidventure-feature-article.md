@@ -13,11 +13,13 @@ At EAA AirVenture in Oshkosh, Wisconsin, the Control Line (CL) area at Pioneer A
 
 ---
 
-## 2. Key Operations Data
+## 2. Key Operations Data & Airspace Fit
 * **30+ Years of Operation:** Initiated by Wisconsin modelers and supported by the Circle Masters Flying Club, EAA, and AMA.
 * **25,000+ Flights Logged:** Provided free flight instruction to youth from over 80 countries.
 * **7-Day AirVenture Schedule:** Monday–Saturday: 9:00 AM – 3:30 PM; Sunday: 9:00 AM – 2:00 PM.
 * **Dual Flight Circles:** Two simultaneous turf circles operating continuously.
+* **Tight Airspace Compatibility:** Control line is ideal for EAA's congested airspace. Because airplanes remain physically tethered to a fixed 50–60 ft radius, flights stay contained within a safe, predictable volume without infringing on full-scale traffic.
+* **Adjacent to Bell 47 Runway:** The circles operate immediately adjacent to the active Pioneer Airport turf runway and helipad where iconic **Bell 47 helicopters** provide continuous passenger rides throughout AirVenture.
 
 ---
 
@@ -45,8 +47,9 @@ Designed by **Chris Sterner**, the **Eagle One** is built for extreme durability
 
 ---
 
-## 5. Champions, Demonstrators & Aviation Leaders
+## 5. Champions, Demonstrations & Pulse Jet Flights
 Between training sessions, master flyers demonstrate advanced flight disciplines on 60-foot lines:
+* **Noisy Pulse Jet Flights:** High-speed pulse jet demonstrations draw huge crowds across Pioneer Airport with their unmistakable, deafening roar and glowing tailpipes.
 * **Gilbert & Véronique Béringer:** Founders of *Beringer Aero* and international competitors from France.
 * **Tom Siegler:** National Control Line Combat champion demonstrating high-speed maneuvering.
 * **Burt Rutan & Sean Elliott:** Legendary designer Burt Rutan and EAA VP Sean Elliott have visited and supported the flight line.

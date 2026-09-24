@@ -24,6 +24,8 @@ Holding the control handle tethered to dual steel lines, first-time flyers direc
 * **Flight Volume:** Over 25,000 instructional flights logged over 30+ years.
 * **Schedule:** 7 days during AirVenture week (Mon–Sat: 9:00 AM – 3:30 PM; Sun: 9:00 AM – 2:00 PM).
 * **Two Flight Circles:** Continuous simultaneous operation with dedicated flight coaches and ground crews.
+* **Tight Airspace Compatibility:** Control line is uniquely suited to EAA's congested airspace. Because models are tethered to a fixed radius (50–60 ft lines), flights operate safely within a strictly defined envelope without conflicting with nearby full-scale traffic.
+* **Pioneer Airport Location:** The circles operate directly adjacent to the active Pioneer Airport turf runway and helipad used for continuous **Bell 47 helicopter passenger rides**.
 * **Global Participation:** Serves attendees from across the United States and over 80 countries worldwide.
 
 ---
@@ -79,12 +81,13 @@ The fleet previously used Cox .049 glow engines. Modernizing to brushless electr
 
 ---
 
-## Champions and Aerobatic Demonstrations
-Between training flights, master pilots perform demonstrations across model aviation disciplines:
+## Champions, Demonstrations & Pulse Jet Flights
+Between training flights, master pilots demonstrate high-performance disciplines on 60-foot lines:
+* **Noisy Pulse Jet Flights:** High-speed pulse jet demonstrations draw huge crowds across Pioneer Airport with their unmistakable, deafening roar and glowing tailpipes.
 * **Gilbert & Véronique Béringer:** Founders of *Beringer Aero* and international competitors from France demonstrating European precision flying.
 * **Tom Siegler:** National Control Line Combat champion demonstrating high-speed maneuvering and reflexes.
 * **Aviation Visitors:** Aerospace designer **Burt Rutan** and EAA VP of Advocacy & Safety **Sean Elliott** have visited and supported the flight line.
-* **Precision Aerobatics (CL Stunt):** Master pilots demonstrate the full AMA pattern (inside/outside loops, inverted flight, eights, and cloverleafs) on 60-foot lines.
+* **Precision Aerobatics (CL Stunt):** Master pilots demonstrate the full AMA pattern (inside/outside loops, inverted flight, eights, and cloverleafs).
 
 ---
 
