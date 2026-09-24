@@ -48,7 +48,7 @@ The aircraft fleet evolved through continuous field testing to maximize durabili
 
 1. **Original Club Models (Early 1990s):** Initial demonstration flights used volunteers' personal balsa models.
 2. **Cox Plastic Ready-to-Fly (RTF):** Transitioned to commercial plastic Cox RTF trainers (such as the PT-19) powered by Cox .049 engines.
-3. **Brodak Sky Babies:** Adopted Brodak Sky Baby foam/wood kits for improved repairability.
+3. **Bratco Skybabies:** Adopted **Bratco Skybaby** airplanes, backed by generous kits, parts, and hardware support from **Brodak Manufacturing**.
 4. **The "Tuf Baby" (Bob Arata & Dan McEntee):** Designed by St. Louis volunteers **Bob Arata** and **Dan McEntee**, this rugged Coroplast trainer significantly improved crash resistance and served as the backbone of KidVenture for years.
 5. **The "Eagle 1" (Chris Sterner):** The modern, purpose-built electric trainer designed by **Chris Sterner**, optimizing Coroplast construction for brushless power, rapid battery changes, and zero-maintenance flight rotations.
 
@@ -82,6 +82,7 @@ The KidVenture fleet's propulsion evolved through three distinct eras:
 ## Industry & Community Sponsors
 Over 30 years, generous aeromodeling manufacturers and partners have kept the flight lines equipped:
 * **Cox:** Provided initial engines, glow plugs, and technical support.
+* **Brodak Manufacturing:** Supplied Bratco Skybaby airplanes, kits, control line hardware, and parts.
 * **SIG Manufacturing:** Longtime partner supplying fuel, building supplies, hardware, and control line accessories.
 * **Thunder Power RC:** Supplied high-performance LiPo flight packs during the electric transition.
 * **Circle Masters Flying Club:** Fabricates airframes, maintains electronics, and oversees annual operations.
