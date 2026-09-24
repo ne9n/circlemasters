@@ -50,8 +50,8 @@ The aircraft fleet evolved through continuous field testing to maximize durabili
 
 1. **Original Club Models (Early 1990s):** Initial demonstration flights used volunteers' personal balsa models.
 2. **Cox Plastic Ready-to-Fly (RTF):** Transitioned to commercial plastic Cox RTF trainers (such as the PT-19) powered by Cox .049 engines.
-3. **The "Skybaby" (Designed by Bob Arata / SIG):** Designed by **Bob Arata** and produced as the Bratco Skybaby, supplied and supported by **SIG Manufacturing**.
-4. **The "Tuf Baby" (Bob Arata & Dan McEntee):** Purpose-designed by **Bob Arata** and **Dan McEntee**, this rugged Coroplast trainer significantly improved crash resistance and served as the backbone of KidVenture for years.
+3. **Bratco Skybabies (SIG Manufacturing):** Adopted **Bratco Skybaby** airplanes supplied and supported by **SIG Manufacturing**.
+4. **The "Tuf Baby" (Bob Arata & Dan McEntee):** Designed out of durable Coroplast by St. Louis volunteers **Bob Arata** and **Dan McEntee** as the rugged replacement for the Skybaby, dramatically increasing crash resistance across thousands of flights.
 5. **The "Eagle 1" (Chris Sterner):** The modern, purpose-built electric trainer designed by **Chris Sterner**, optimizing Coroplast construction for brushless power, rapid battery changes, and zero-maintenance flight rotations.
 
 ---
@@ -96,7 +96,7 @@ Over 30 years, generous aeromodeling manufacturers and partners have kept the fl
 * **Dan & Sean McEntee:** Active flight coaches, pit mechanics, and StuntHanger contributors supporting line maintenance and instruction.
 * **Jim & Julie Krueger:** Dedicated longtime flight line volunteers assisting with student flight coaching, flight line operations, and student management.
 * **The Late Arthur Johnson (AMA #1825):** AMA member since 1953 and longtime District VI CD; master engine technician and technical owner of all fleet aircraft who kept engines flawlessly tuned and flight-ready.
-* **The Late Robert "Bob" Arata (AMA #8786):** USAF veteran, aircraft mechanic, and designer of the **Skybaby** and co-designer of the **Tuf Baby**, who taught thousands of beginners using the dual-handle coaching method.
+* **The Late Robert "Bob" Arata (AMA #8786):** USAF veteran, aircraft mechanic, and co-designer of the Coroplast **Tuf Baby** (the rugged replacement for the Skybaby), who taught thousands of beginners using the dual-handle coaching method.
 * **Camp Scholler & Wednesday BBQ:** Volunteers camp together at Camp Scholler and host an annual Wednesday evening BBQ.
 
 ---
