@@ -1,202 +1,113 @@
-# ARTICLE SUBMISSION FOR *MODEL AVIATION* MAGAZINE
+# Control Line Flying at EAA KidVenture: 30 Years and 25,000 Flights
 
-**Title:** Flying on the Wires of Oshkosh: 30 Years of Control Line at EAA KidVenture  
-**Subtitle:** How dedicated AMA volunteers and a nearly indestructible Coroplast trainer have given over 25,000 kids their first flight experience.  
 **Author:** David Siegler, Chris Sterner, and the Circle Masters Flying Club Volunteer Team  
-**Target Publication:** *Model Aviation* (Feature Article / Club Outreach & Education)  
-**Estimated Word Count:** ~1,800 words  
-**Photo Assets:** 8 Suggested Photos & Captions Included  
+**Target Publication:** *Model Aviation*  
+**Category:** Feature / Youth Outreach  
+**Contact:** Dave Siegler (dwsiegler@gmail.com) | [circlemasters.com](https://circlemasters.com)
 
 ---
 
-## Author & Contact Information
-* **Lead Submitter:** Dave Siegler (Circle Masters Flying Club)
-* **Email:** dwsiegler@gmail.com
-* **Club / Affiliation:** Circle Masters Flying Club (AMA Chartered Club) / EAA KidVenture Control Line Volunteer Team
-* **Website Reference:** [Circle Masters Flying Club](https://circlemasters.com) · [KV Control Line](https://kvcontrolline.weebly.com/)
+> *"Planting the seed of interest in aviation, one kid at a time."* — KidVenture CL Team
 
----
+During EAA AirVenture in Oshkosh, Wisconsin, the KidVenture area at Pioneer Airport gives young visitors hands-on aviation experience. While attendees can build wing ribs, buck rivets, and fly simulators, the **Control Line (CL) flight circles** provide direct flight experience. 
 
-# Flying on the Wires of Oshkosh: 30 Years of Control Line at EAA KidVenture
-
-### *By Dave Siegler, Chris Sterner, and the Circle Masters Flying Club Volunteer Team*
-
-> **Pull Quote:**  
-> *"Planting the seed of interest in aviation, one kid at a time."*  
-> — *The KidVenture Control Line Volunteer Motto*
-
-Every summer, more than 600,000 aviation enthusiasts travel from across the globe to Wittman Regional Airport in Oshkosh, Wisconsin, for EAA AirVenture. While the skies above the main flight line roar with roaring warbirds, aerobatic champions, and homebuilts, one of the most transformative hands-on aviation experiences takes place at **KidVenture**, nestled across the turf of historic Pioneer Airport.
-
-Amidst the sheet-metal riveting workshops, rib stitching, and flight simulators, a persistent buzz draws crowds of curious parents and children to two manicured grass circles: **Control Line (CL) Model Airplane Flying**.
-
-Here, kids don’t merely watch airplanes or nudge a simulator stick—they step into the center of the circle, grip a flight handle connected to dual stainless-steel lines, and physically feel the aerodynamic lift, motor thrust, and pitch response of a real flying aircraft for the very first time.
+Holding the control handle tethered to dual steel lines, first-time flyers directly feel line tension, motor thrust, and immediate elevator response through wrist movement.
 
 ---
 
 ### [PHOTO 1: Pioneer Airport Flight Line]
-*Caption: The busy KidVenture Control Line flight circles at Pioneer Airport during EAA AirVenture in Oshkosh, Wisconsin. Two flight circles run non-stop all week long. (Photo courtesy of Circle Masters / AMA)*
+*Caption: Two active control line flight circles operating at Pioneer Airport during EAA AirVenture Oshkosh.*
 
 ---
 
-## 1. A 30-Year Tradition: 25,000 First Flights
-What began more than three decades ago as an informal demonstration by Wisconsin modelers has grown into one of the largest and most successful grassroots youth flight training operations in the world. 
-
-Coordinated in partnership with the **Circle Masters Flying Club** and championed by dedicated organizers like **Doug & Geri MacArthur**, **Chris Sterner**, **Dave Siegler**, **DC Jensen**, **Steve Mills**, **Dan McEntee**, and **Sean McEntee**, the program operates all seven days of AirVenture:
-
-* **High-Tempo Operations:** Running continuously from 9:00 AM to 3:30 PM Monday through Saturday, and wrapping up with a spirited Sunday session until 2:00 PM.
-* **A Milestone Reached:** Over the course of 30 years, the volunteer corps has provided **over 25,000 individual instructional flights** to children, teenagers, and curious adults.
-* **A Truly Global Flight Line:** With EAA AirVenture attracting visitors from over 80 nations each year, the KidVenture control line circles welcome youth and families from every continent—from across North America and Europe to Australia, Japan, Brazil, and South Africa. On the circle, language barriers vanish; hand gestures, shared excitement, and the universal feel of control lines connect international visitors in a shared celebration of flight.
-* **National and International Volunteer Brotherhood:** While spearheaded locally by Circle Masters, instructors and aeromodeling ambassadors travel to Oshkosh from across the United States, Canada, France, and beyond, uniting annually around a shared passion for youth flight education.
+## Operations and 30-Year History
+* **Flight Volume:** Over 25,000 instructional flights logged over 30+ years.
+* **Schedule:** 7 days during AirVenture week (Mon–Sat: 9:00 AM – 3:30 PM; Sun: 9:00 AM – 2:00 PM).
+* **Two Flight Circles:** Continuous simultaneous operation with dedicated flight coaches and ground crews.
+* **Global Participation:** Serves attendees from across the United States and over 80 countries worldwide.
 
 ---
 
 ### [PHOTO 2: One-on-One Flight Coaching]
-*Caption: A seasoned volunteer instructor stands with a young student pilot in the circle, guiding their hands on the dual control handle during takeoff. (Photo courtesy of Circle Masters)*
+*Caption: An instructor uses the dual-handle technique to guide a student through takeoff and level flight.*
 
 ---
 
-## 2. The Instructional Method: "Hands-on-Handle"
-Teaching hundreds of first-time flyers every day requires a structured, safe, and encouraging approach. Every flight follows a proven sequence:
-
-1. **Pre-Flight Briefing:** Ground crew instructors explain the basic mechanics of tethered flight. Students learn that tilting the wrist back pulls the upper line to command up-elevator for climbing, while tilting forward commands down-elevator for descent. Instructors emphasize keeping the arm straight to maintain positive line tension against centrifugal force.
-2. **Coached Liftoff:** In the center of the circle, the instructor places a steadying hand over or alongside the student’s on the handle. As the propeller spins up and the pit crew signals clear, the trainer takes off in less than half a lap.
-3. **The "Aha!" Moment:** Within seconds, the student feels the live tension on the wires and discovers that the airplane responds immediately to their commands. The instructor gradually eases their grip, allowing the child to take full command of level flight.
-4. **Smooth Touchdown:** When the flight timer smoothly throttles down the motor, the instructor coaches the student through a gentle flare for landing on the grass.
+## Instructional Technique
+1. **Pre-Flight Briefing:** Students learn that tilting the wrist back pulls the top line to pitch the elevator up (climb), while tilting forward pitches the elevator down (descent). Instructors emphasize keeping the arm steady to maintain line tension.
+2. **Dual-Handle Takeoff:** The instructor stands with the student in the center of the circle, placing a guiding hand over the student's on the handle.
+3. **In-Flight Control:** Within half a lap, the plane lifts off. Once the student establishes level flight, the instructor gradually releases control to the student.
+4. **Landing:** Electronic timers automatically ramp down motor power for a gentle glide and touchdown on the grass.
 
 ---
 
-### [PHOTO 3: Eagle One Trainer on the Turf]
-*Caption: The rugged Eagle One Trainer, designed by Chris Sterner, features durable Coroplast construction and brushless electric power tailored for continuous KidVenture flight rotations.*
+### [PHOTO 3: Eagle One Trainer]
+*Caption: The Coroplast Eagle One electric trainer, designed by Chris Sterner.*
 
 ---
 
-## 3. Engineering the Ultimate Trainer: The "Eagle One"
-Operating under the hot summer sun and absorbing dozens of landings per hour requires an airframe that is virtually indestructible, quick to cycle, and forgiving in the air. 
+## Aircraft Engineering: The Eagle One Trainer
+Designed by **Chris Sterner**, the **Eagle One** is built specifically for high-volume flight training and durability.
 
-Renowned aeronautical engineer and author **Barnaby Wainfan**, writing for *KITPLANES Magazine*, praised the operation for its thoughtful engineering designed to withstand what he aptly termed "unplanned intersections with the ground."
+| Specification | Details |
+| :--- | :--- |
+| **Wingspan** | 30-1/4 in. |
+| **Wing Area** | 225 sq. in. |
+| **Material** | 0.158-in. Fluted Polypropylene (Coroplast) |
+| **Adhesive** | High-strength hot-melt glue along flutes and joints |
+| **Power System** | 2807 1300KV Brushless Outrunner & ESC |
+| **Flight Timer** | Custom Solid-State Electronic Timer (Dave Siegler) |
+| **Control Hardware** | 1/2-A Bellcrank, 1/16-in. music wire pushrod, steel lines |
+| **Plans** | Free download at [circlemasters.com](https://circlemasters.com) |
 
-The workhorse of KidVenture is the **Eagle One Trainer**, purpose-designed by **Chris Sterner**:
-
-* **Coroplast Toughness:** The airframe is built from 0.158″ fluted polypropylene (the material used in outdoor election and yard signs). It flexes on hard arrivals rather than shattering, and damaged parts can be field-repaired in minutes using high-strength hot-melt glue.
-* **Flight Geometry:** With a **30¼-inch wingspan** and **225 sq. in. of wing area**, the Eagle One provides a stable, predictable platform that gives beginners ample time to react.
-* **The Electric Transition:** While early generations of KidVenture trainers flew on legendary Cox .049 glow engines, the modern fleet has transitioned completely to **brushless electric power**:
-  * **Motor & ESC:** 2807 1300KV brushless outrunner paired with a reliable ESC.
-  * **Precision Solid-State Timers:** Custom electronic timers developed with **Dave Siegler** deliver a gentle soft-start ramp, governed RPM throughout the flight, and a predictable soft cutoff for landing.
-  * **Rapid Turnaround:** Eliminates fuel mixing, hot engine restarts, and oily cleanup, allowing the flight line to cycle batteries and launch planes in rapid succession.
-
----
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                       SIDEBAR: EAGLE ONE SPECIFICATIONS                     │
-├──────────────────────────┬──────────────────────────────────────────────────┤
-│ Wingspan                 │ 30-1/4 inches                                    │
-│ Wing Area                │ 225 sq. inches                                   │
-│ Airframe Material        │ 0.158″ Fluted Polypropylene (Coroplast)          │
-│ Construction Method      │ High-Strength Hot-Melt Adhesive along seams      │
-│ Power Unit               │ 2807 1300KV Brushless Outrunner Motor & ESC      │
-│ Flight Timing            │ Custom Solid-State Electronic Timer (D. Siegler) │
-│ Control Hardware         │ 1/2-A Bellcrank, 1/16″ Music Wire Pushrod        │
-│ Flying Lines             │ Standard 1/2-A steel lines & dual control handle │
-│ Plans Availability       │ Free download at circlemasters.com               │
-└──────────────────────────┴──────────────────────────────────────────────────┘
-```
+### Electric Transition
+The fleet previously used Cox .049 glow engines. Modernizing to brushless electric power and custom solid-state timers eliminated hot restarts, needle adjustments, and fuel cleanup. The timers provide a smooth soft-start ramp, governed RPM, and a soft cutoff for landing.
 
 ---
 
-## 4. The Volunteer Engine: Camaraderie, Camp Scholler & BBQ
-Behind the statistics and airplanes is an extraordinary community of aeromodelers who dedicate their vacations to youth flight education.
-
-### Geri MacArthur — National Volunteer Coordinator
-Managing the logistics for a seven-day flight operation with dozens of rotating volunteers is no small feat. Geri coordinates schedules for instructors traveling from all corners of the country, runs safety orientations, and ensures volunteers stay hydrated and fed during their 4-hour shifts.
-
-### Dan and Sean McEntee — Multi-Generational Flight Line Champions
-Well-known fixtures in the national control line community and on StuntHanger forums, Dan and Sean McEntee embody the family-driven spirit of aeromodeling. Bringing deep technical craftsmanship, motor tuning expertise, and tireless enthusiasm to Pioneer Airport, the McEntees work the circles all week long, coaching kids on the handle, helping maintain the flight line, and ensuring that every young visitor leaves with a genuine sense of accomplishment.
-
-### The Late Arthur Johnson (AMA #1825) — A Lifetime Dedicated to Model Aviation
-An AMA member since 1953 and longtime AMA District VI Control Line Contest Director, the late Arthur Johnson exemplified the true spirit of giving back. For decades, Arthur poured his heart into youth aeromodeling, cherishing the "lightbulb moment" when a child held the handle for the first time. His legacy of patient mentorship remains an enduring pillar of the KidVenture flight program.
-
-### The Late Robert "Bob" Arata (AMA #8786) — Decades of Service on the Turf
-A U.S. Air Force veteran and master aircraft mechanic, the late Bob Arata dedicated decades of his life to volunteering on the grass at Pioneer Airport. Bob’s gentle coaching demeanor and mastery of the dual-handle safety technique helped thousands of nervous children find their confidence in the center of the circle, leaving an indelible mark on generations of young flyers.
-
-### Camp Scholler & The Wednesday Volunteer BBQ
-For the volunteer crew, Oshkosh is also an annual family reunion. Many camp together in Camp Scholler, sharing morning breakfasts and evening debriefs. The highlight of the week is the **Annual Wednesday Control Line Volunteer BBQ**, where instructors, mechanics, and stunt pilots gather for an evening of food, fellowship, and lively "hangar flying."
+## Volunteers and Leadership
+* **Doug & Geri MacArthur:** Lead coordinators managing daily 4-hour shift rotations, logistics, and volunteer hospitality.
+* **Dan & Sean McEntee:** Active flight coaches, pit mechanics, and StuntHanger contributors supporting line maintenance and instruction.
+* **The Late Arthur Johnson (AMA #1825):** AMA member since 1953 and longtime District VI CD who dedicated decades to mentoring youth at KidVenture.
+* **The Late Robert "Bob" Arata (AMA #8786):** USAF veteran and aircraft mechanic who guided thousands of beginners using the dual-handle coaching method.
+* **Camp Scholler & Wednesday BBQ:** Volunteers camp together at Camp Scholler and host an annual Wednesday evening BBQ.
 
 ---
 
-### [PHOTO 4: Volunteer Team at Camp Scholler BBQ]
-*Caption: The KidVenture Control Line volunteer family gathers for the annual Wednesday evening BBQ during AirVenture week. (Photo courtesy of KV Control Line)*
+### [PHOTO 4: Volunteer Team at Camp Scholler]
+*Caption: The KidVenture Control Line volunteer corps at their annual gathering.*
 
 ---
 
-## 5. World-Class Aerobatics: International Champions on the Circle
-Between instructional flights, master modelers and renowned champions step onto the circles with full-size competition stunt aircraft to put on **Precision Aerobatics (CL Stunt)** demonstrations on 60-foot lines.
-
-Over the years, the KidVenture flight circles have welcomed an illustrious roster of national and international champions, aerospace legends, and master craftsmen who fly demonstrations, mentor young flyers, and celebrate the sport:
-
-* **Gilbert and Véronique Béringer:** The visionary founders of *Beringer Aero* and international aerobatic competitors from France, bringing world-class European precision flying, engineering excellence, and global passion for model aviation to the Oshkosh turf.
-* **Tom Siegler:** Multiple-time national competitor and champion Control Line Combat pilot, demonstrating the blistering speed, high-g agility, and lightning reflexes of CL Combat for eager young spectators on the grass.
-* **Aviation Legends & Leadership:** Iconic aerospace pioneers—including legendary aircraft designer **Burt Rutan**—and key EAA leadership like **Sean Elliott** (EAA Vice President of Advocacy and Safety, airshow pilot, and passionate champion of youth aviation pathways) have visited and celebrated the KidVenture control line circles, recognizing tethered flight as one of the purest foundational roots of aerospace design and piloting intuition.
-* **Master Precision Demonstrators:** Master pilots from across North America perform the official AMA Precision Aerobatics pattern—consecutive inside loops, inverted horizontal flight, vertical eights, and the cloverleaf—showing young students the breathtaking artistic and technical heights that began with their very first flight on an Eagle One.
+## Champions and Aerobatic Demonstrations
+Between training flights, master pilots perform demonstrations across model aviation disciplines:
+* **Gilbert & Véronique Béringer:** Founders of *Beringer Aero* and international competitors from France demonstrating European precision flying.
+* **Tom Siegler:** National Control Line Combat champion demonstrating high-speed maneuvering and reflexes.
+* **Aviation Visitors:** Aerospace designer **Burt Rutan** and EAA VP of Advocacy & Safety **Sean Elliott** have visited and supported the flight line.
+* **Precision Aerobatics (CL Stunt):** Master pilots demonstrate the full AMA pattern (inside/outside loops, inverted flight, eights, and cloverleafs) on 60-foot lines.
 
 ---
 
-### [PHOTO 5: Precision Aerobatic Demonstration]
-*Caption: Master pilots and international champions perform inverted passes and precision maneuvers just above the grass at Pioneer Airport, inspiring thousands of young spectators.*
+### [PHOTO 5: Precision Stunt Demonstration]
+*Caption: A full-pattern stunt airplane during an inverted pass over Pioneer Airport.*
 
 ---
 
-## 6. Keeping the Prop Spinning: Taking the Hobby Home
-The true mission of KidVenture is not just to give a flight, but to spark a lifelong passion for aviation, engineering, and aeromodeling.
-
-* **Free Open-Source Plans:** To ensure families can continue flying at home, the complete plans, build instructions, and bill of materials for the Eagle One Trainer are distributed **free of charge** online through [Circle Masters Flying Club](https://circlemasters.com) and [KV Control Line](https://kvcontrolline.weebly.com/).
-* **Connecting to AMA Clubs:** Parents are provided information on finding their nearest **Academy of Model Aeronautics (AMA)** chartered club and online communities like [StuntHanger.com](https://stunthanger.com) to find local flight instructors and building mentors.
-* **The "Great Works of Flight" Gallery:** Young builders who build their own Eagle One at home are invited to submit photos of their completed airplanes to the team at `kidventurecl@outlook.com`.
-
----
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                  SIDEBAR: TIPS FOR HOSTING A CLUB YOUTH EVENT               │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 1. Use Crash-Resilient Trainers: Coroplast airframes flex and absorb hard   │
-│    arrivals, reducing downtime and keeping kids flying.                     │
-│ 2. Go Electric: Electric brushless power with timers eliminates hot engine  │
-│    burns, fuel spills, and difficult restarts on busy flight lines.         │
-│ 3. Dual-Handle Coaching: Always have the instructor's hand resting over the │
-│    student's handle to ensure safety and prevent over-controlling.          │
-│ 4. Keep Flights Short & Sweet: A 2-to-3 minute flight is ideal to prevent   │
-│    dizziness and allow high throughput for waiting kids.                    │
-│ 5. Provide Take-Home Resources: Give parents flyers with local club meeting │
-│    times and links to free trainer plans so they know where to go next.     │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+## Club Event Takeaways
+1. **Use Coroplast Airframes:** Resists crash damage and repairs quickly with hot glue.
+2. **Use Electric Timers:** Eliminates fuel handling and speeds up flight cycling.
+3. **Use Dual-Handle Coaching:** Keeps flights safe and prevents over-controlling.
+4. **Keep Flights Short (2–3 Minutes):** Prevents student dizziness and reduces queue times.
+5. **Distribute Take-Home Plans:** Provide links to local clubs and free plans so families can continue flying.
 
 ---
 
-## 7. Conclusion: The Living Heart of Aeromodeling
-In an era dominated by screens and virtual experiences, there remains something truly magical about holding real control lines attached to a real airplane flying through the air. The physical pull on the handle, the direct mechanical response of the elevator, and the satisfaction of a smooth landing create an unforgettable spark.
-
-Thanks to the tireless dedication of the **Circle Masters Flying Club**, the **KidVenture volunteer family**, and the support of the **EAA** and **AMA**, that spark continues to ignite thousands of future pilots, engineers, and aeromodelers every summer at Oshkosh.
-
----
-
-## Photo Captions & Credits Checklist
-1. **Photo 1 (Pioneer Airport Circle Overview):** Wide shot of the dual flight circles at Pioneer Airport. *(Credit: Circle Masters Flying Club / AMA)*
-2. **Photo 2 (Dual Handle Instruction):** Close-up of an instructor coaching a young girl holding the handle in the circle center. *(Credit: KV Control Line)*
-3. **Photo 3 (Eagle One Trainer):** High-resolution detail shot of Chris Sterner’s Coroplast Eagle One electric trainer. *(Credit: Chris Sterner / Circle Masters)*
-4. **Photo 4 (Solid-State Timer & Battery Setup):** Close-up of the electric motor mount, ESC, and custom Dave Siegler electronic timer. *(Credit: Dave Siegler)*
-5. **Photo 5 (Volunteer Crew & BBQ):** Group photo of the KidVenture volunteer corps in their official yellow/blue uniforms. *(Credit: Geri MacArthur)*
-6. **Photo 6 (Arthur Johnson & Young Pilot):** Arthur Johnson (AMA #1825) congratulating a student after their first flight. *(Credit: Model Aviation)*
-7. **Photo 7 (Bob Arata on the Line):** Bob Arata prepping an Eagle One on the Pioneer turf. *(Credit: KV Control Line)*
-8. **Photo 8 (Stunt Airshow Demonstration):** Precision stunt aircraft carving a vertical eight above the Pioneer Airport flight line. *(Credit: StuntHanger / Circle Masters)*
-
----
-
-## Reference & Resource Links
-* **Circle Masters Flying Club (Eagle One Plans & Guides):** [https://circlemasters.com](https://circlemasters.com)
-* **KidVenture Control Line Volunteer Portal:** [https://kvcontrolline.weebly.com/](https://kvcontrolline.weebly.com/)
-* **EAA AirVenture KidVenture Official Page:** [https://www.eaa.org/airventure/features-and-attractions/kidventure](https://www.eaa.org/airventure/features-and-attractions/kidventure)
-* **KITPLANES Magazine ("Flying Lessons at KidVenture" by Barnaby Wainfan):** [https://www.kitplanes.com/flying-lessons-at-kidventure/](https://www.kitplanes.com/flying-lessons-at-kidventure/)
-* **AMA Blog (Control Line at KidVenture):** [https://amablog.modelaircraft.org/blog/control-line-enthusiasts-celebrate-20-years-at-eaa-kidventure/](https://amablog.modelaircraft.org/blog/control-line-enthusiasts-celebrate-20-years-at-eaa-kidventure/)
-* **StuntHanger Community:** [https://stunthanger.com](https://stunthanger.com)
+## Reference Links & Videos
+* **Circle Masters Plans & Guides:** [circlemasters.com](https://circlemasters.com)
+* **KidVenture CL Volunteer Portal:** [kvcontrolline.weebly.com](https://kvcontrolline.weebly.com/)
+* **EAA KidVenture Official Page:** [eaa.org/airventure/.../kidventure](https://www.eaa.org/airventure/features-and-attractions/kidventure)
+* **KITPLANES (Barnaby Wainfan):** [kitplanes.com/flying-lessons-at-kidventure](https://www.kitplanes.com/flying-lessons-at-kidventure/)
+* **Video - Geri MacArthur & Flight Overview:** [youtu.be/LLvLptZO51Q](https://www.youtube.com/watch?v=LLvLptZO51Q)
+* **Video - Arthur Johnson Interview:** [youtu.be/3VVK0B_YBp8](https://www.youtube.com/watch?v=3VVK0B_YBp8)
+* **Video - Bob Arata Interview:** [youtu.be/_k9OipR_-4w](https://www.youtube.com/watch?v=_k9OipR_-4w)
+* **Video - Flight Line Action:** [youtu.be/GFOkGf6pCP8](https://www.youtube.com/watch?v=GFOkGf6pCP8)
