@@ -27,7 +27,7 @@ At EAA AirVenture in Oshkosh, Wisconsin, the Control Line (CL) area at Pioneer A
 Over three decades, the training fleet evolved through five distinct generations:
 1. **Club Members' Personal Models (Early 1990s):** Initial flights used volunteers' personal balsa airplanes.
 2. **Cox Plastic Ready-to-Fly (RTF):** Commercial plastic trainers (such as the Cox PT-19) powered by Cox .049 engines.
-3. **Bratco Skybabies:** Adopted **Bratco Skybaby** airplanes, backed by kits, parts, and hardware support from **Brodak Manufacturing**.
+3. **Bratco Skybabies (SIG Manufacturing):** Adopted **Bratco Skybaby** airplanes supplied and supported by **SIG Manufacturing**.
 4. **The "Tuf Baby" (Bob Arata & Dan McEntee):** Purpose-designed by St. Louis volunteers **Bob Arata** and **Dan McEntee**, utilizing Coroplast to endure heavy training cycles for many years.
 5. **The "Eagle 1" (Chris Sterner):** Modern electric Coroplast trainer designed by **Chris Sterner**, optimized for 2807 brushless outrunners and Dave Siegler electronic timers.
 
@@ -40,12 +40,12 @@ Over three decades, the training fleet evolved through five distinct generations
 | **Assembly** | Hot-melt adhesive | Quick field repairs |
 | **Power Evolution** | Cox .049 &rarr; Norvel .061 &rarr; 2807 Brushless | Historical engine progression |
 | **Timer System** | Solid-State Electronic Timer | Designed by Dave Siegler; governs RPM & soft cutoff |
-| **Industry Support** | Cox, Brodak, SIG, Thunder Power RC | Engines, airplanes, fuel, hardware, LiPo packs |
+| **Industry Support** | Cox, SIG, Brodak, Thunder Power RC | Airplanes, engines, fuel, hardware, LiPo packs |
 | **Plans** | Free Download | Available at [circlemasters.com](https://circlemasters.com) |
 
 ### Engine & Sponsor Progression
 1. **Cox .049 Era:** Foundation years powered by Cox glow engines with factory engine and plug support.
-2. **Norvel .061 Era:** Transitioned to high-performance Norvel .061 engines with support from **Brodak Manufacturing** (Bratco Skybaby kits and CL hardware) and **SIG Manufacturing** (fuel, building supplies).
+2. **Norvel .061 Era:** Transitioned to high-performance **Norvel .061** engines and **Bratco Skybaby** airplanes, supplied and supported by **SIG Manufacturing** alongside fuel and building supplies.
 3. **Electric Era:** Powered by 2807 1300KV outrunners and **Thunder Power RC** LiPo batteries, managed by custom Siegler electronic timers for zero-mess, high-tempo operations.
 
 ---
