@@ -98,6 +98,7 @@ Over 30 years, generous aeromodeling manufacturers and partners have kept the fl
 * **The Late Arthur Johnson (AMA #1825):** AMA member since 1953 and longtime District VI CD; master engine technician and technical owner of all fleet aircraft who kept engines flawlessly tuned and flight-ready.
 * **The Late Robert "Bob" Arata (AMA #8786):** USAF veteran, aircraft mechanic, and co-designer of the Coroplast **Tuf Baby** (the rugged replacement for the Skybaby), who taught thousands of beginners using the dual-handle coaching method.
 * **Camp Scholler & Wednesday BBQ:** Volunteers camp together at Camp Scholler and host an annual Wednesday evening BBQ.
+* **Always Welcoming New Volunteers:** The program continuously needs and welcomes new and returning volunteers. Volunteers enjoy exceptional benefits including EAA AirVenture admission wristbands, parking passes, flexible 4-hour shift rotations (leaving time to enjoy the airshow), Camp Scholler camping fellowship, the Wednesday volunteer BBQ, and the deep reward of mentoring the next generation of aviators. Contact [circlemasters.com](https://circlemasters.com) or register with EAA KidVenture.
 
 ---
 
