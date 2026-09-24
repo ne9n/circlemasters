@@ -50,12 +50,14 @@ Designed by **Chris Sterner**, the **Eagle One** is built for extreme durability
 * **The Late Arthur Johnson (AMA #1825):** AMA member since 1953 and longtime District VI CD who spent decades mentoring young modelers.
 * **The Late Robert "Bob" Arata (AMA #8786):** USAF veteran and aircraft mechanic who guided thousands of students with the dual-handle coaching method.
 * **Camp Scholler:** Shared camping base for instructors traveling from across North America and Europe.
+* **Multi-Generational Legacy:** Former student flyers from the 1990s and 2000s now bring their own children to Pioneer Airport. Many alumni have gone on to careers as commercial airline captains, military pilots, and aerospace engineers, returning to thank the volunteers.
 
 ---
 
 ## 5. Champions, Demonstrations & Pulse Jet Flights
 Between training sessions, master flyers demonstrate advanced flight disciplines on 60-foot lines:
 * **Noisy Pulse Jet Flights:** High-speed pulse jet demonstrations draw huge crowds across Pioneer Airport with their unmistakable, deafening roar and glowing tailpipes.
+* **Todd Lee:** Master stunt pilot performing precision aerobatic routines and mentoring youth.
 * **Gilbert & Véronique Béringer:** Founders of *Beringer Aero* and international competitors from France.
 * **Tom Siegler:** National Control Line Combat champion demonstrating high-speed maneuvering.
 * **Burt Rutan & Sean Elliott:** Legendary designer Burt Rutan and EAA VP Sean Elliott have visited and supported the flight line.

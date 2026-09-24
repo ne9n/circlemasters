@@ -93,9 +93,17 @@ Over 30 years, generous aeromodeling manufacturers and partners have kept the fl
 
 ---
 
+## Multi-Generational Impact & Aviation Alumni
+Across three decades, the program has created lasting inter-generational connections:
+* **Multi-Generational Families:** Adults who took their very first flight at KidVenture in the 1990s and 2000s now return with their own children to share the exact same hands-on flight experience.
+* **Aviation Career Pathways:** Many former student flyers have gone on to careers as airline pilots, military aviators, flight instructors, and aeronautical engineers, frequently returning to the circles to credit their KidVenture flight with sparking their professional journey.
+
+---
+
 ## Champions, Demonstrations & Pulse Jet Flights
 Between training flights, master pilots demonstrate high-performance disciplines on 60-foot lines:
 * **Noisy Pulse Jet Flights:** High-speed pulse jet demonstrations draw huge crowds across Pioneer Airport with their unmistakable, deafening roar and glowing tailpipes.
+* **Todd Lee:** Master stunt pilot flying precision aerobatic routines and championing model aviation outreach.
 * **Gilbert & Véronique Béringer:** Founders of *Beringer Aero* and international competitors from France demonstrating European precision flying.
 * **Tom Siegler:** National Control Line Combat champion demonstrating high-speed maneuvering and reflexes.
 * **Aviation Visitors:** Aerospace designer **Burt Rutan** and EAA VP of Advocacy & Safety **Sean Elliott** have visited and supported the flight line.
