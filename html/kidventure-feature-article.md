@@ -23,9 +23,15 @@ At EAA AirVenture in Oshkosh, Wisconsin, the Control Line (CL) area at Pioneer A
 
 ---
 
-## 3. The Eagle One Electric Trainer
-Designed by **Chris Sterner**, the **Eagle One** is built for extreme durability and rapid flight cycles on the turf.
+## 3. Trainer Airframe Evolution
+Over three decades, the training fleet evolved through five distinct generations:
+1. **Club Members' Personal Models (Early 1990s):** Initial flights used volunteers' personal balsa airplanes.
+2. **Cox Plastic Ready-to-Fly (RTF):** Commercial plastic trainers (such as the Cox PT-19) powered by Cox .049 engines.
+3. **Brodak Sky Babies:** Adopted Brodak Sky Baby kits for improved field repairability.
+4. **The "Tuf Baby" (Bob Arata & Dan McEntee):** Purpose-designed by St. Louis volunteers **Bob Arata** and **Dan McEntee**, utilizing Coroplast to endure heavy training cycles for many years.
+5. **The "Eagle 1" (Chris Sterner):** Modern electric Coroplast trainer designed by **Chris Sterner**, optimized for 2807 brushless outrunners and Dave Siegler electronic timers.
 
+### Eagle 1 Specifications
 | Specification | Value | Notes |
 | :--- | :--- | :--- |
 | **Wingspan** | 30-1/4 in. | Stable beginner platform |

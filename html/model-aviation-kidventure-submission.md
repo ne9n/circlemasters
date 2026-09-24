@@ -43,14 +43,23 @@ Holding the control handle tethered to dual steel lines, first-time flyers direc
 
 ---
 
-### [PHOTO 3: Eagle One Trainer]
-*Caption: The Coroplast Eagle One electric trainer, designed by Chris Sterner.*
+## Airframe Evolution: 30 Years of Trainer Innovation
+The aircraft fleet evolved through continuous field testing to maximize durability and flight turnover:
+
+1. **Original Club Models (Early 1990s):** Initial demonstration flights used volunteers' personal balsa models.
+2. **Cox Plastic Ready-to-Fly (RTF):** Transitioned to commercial plastic Cox RTF trainers (such as the PT-19) powered by Cox .049 engines.
+3. **Brodak Sky Babies:** Adopted Brodak Sky Baby foam/wood kits for improved repairability.
+4. **The "Tuf Baby" (Bob Arata & Dan McEntee):** Designed by St. Louis volunteers **Bob Arata** and **Dan McEntee**, this rugged Coroplast trainer significantly improved crash resistance and served as the backbone of KidVenture for years.
+5. **The "Eagle 1" (Chris Sterner):** The modern, purpose-built electric trainer designed by **Chris Sterner**, optimizing Coroplast construction for brushless power, rapid battery changes, and zero-maintenance flight rotations.
 
 ---
 
-## Aircraft Engineering: The Eagle One Trainer
-Designed by **Chris Sterner**, the **Eagle One** is built specifically for high-volume flight training and durability.
+### [PHOTO 3: Eagle One Trainer]
+*Caption: The modern Coroplast Eagle 1 electric trainer, designed by Chris Sterner.*
 
+---
+
+## Aircraft Engineering: The Eagle 1 Trainer
 | Specification | Details |
 | :--- | :--- |
 | **Wingspan** | 30-1/4 in. |
