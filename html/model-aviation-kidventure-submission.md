@@ -48,8 +48,8 @@ The aircraft fleet evolved through continuous field testing to maximize durabili
 
 1. **Original Club Models (Early 1990s):** Initial demonstration flights used volunteers' personal balsa models.
 2. **Cox Plastic Ready-to-Fly (RTF):** Transitioned to commercial plastic Cox RTF trainers (such as the PT-19) powered by Cox .049 engines.
-3. **Bratco Skybabies (SIG Manufacturing):** Adopted **Bratco Skybaby** airplanes supplied and supported by **SIG Manufacturing**.
-4. **The "Tuf Baby" (Bob Arata & Dan McEntee):** Designed by St. Louis volunteers **Bob Arata** and **Dan McEntee**, this rugged Coroplast trainer significantly improved crash resistance and served as the backbone of KidVenture for years.
+3. **The "Skybaby" (Designed by Bob Arata / SIG):** Designed by **Bob Arata** and produced as the Bratco Skybaby, supplied and supported by **SIG Manufacturing**.
+4. **The "Tuf Baby" (Bob Arata & Dan McEntee):** Purpose-designed by **Bob Arata** and **Dan McEntee**, this rugged Coroplast trainer significantly improved crash resistance and served as the backbone of KidVenture for years.
 5. **The "Eagle 1" (Chris Sterner):** The modern, purpose-built electric trainer designed by **Chris Sterner**, optimizing Coroplast construction for brushless power, rapid battery changes, and zero-maintenance flight rotations.
 
 ---
@@ -74,7 +74,7 @@ The aircraft fleet evolved through continuous field testing to maximize durabili
 ### Power System Evolution & Industry Support
 The KidVenture fleet's propulsion evolved through three distinct eras:
 * **Cox .049 Era:** Foundation years powered by legendary Cox reed-valve glow engines, supported directly with engines and parts from **Cox**.
-* **Norvel .061 Era:** Transitioned to high-performance **Norvel .061** engines, supplied and backed by **SIG Manufacturing** along with Bratco Skybaby airplanes, fuel, lines, and building supplies.
+* **Norvel .061 Era:** Transitioned to high-performance **Norvel .061** engines, supplied and backed by **SIG Manufacturing** along with Skybaby airplanes, fuel, lines, and building supplies.
 * **Modern Brushless Electric Era:** Powered by 2807 1300KV outrunners and Siegler solid-state timers, supported by battery manufacturers including **Thunder Power RC**. Electric power eliminated hot restarts, needle valve tuning, and fuel cleanup, enabling rapid flight turnover.
 
 ---
@@ -82,7 +82,7 @@ The KidVenture fleet's propulsion evolved through three distinct eras:
 ## Industry & Community Sponsors
 Over 30 years, generous aeromodeling manufacturers and partners have kept the flight lines equipped:
 * **Cox:** Provided initial engines, glow plugs, and technical support.
-* **SIG Manufacturing:** Major sponsor supplying **Bratco Skybaby** airplanes, **Norvel .061** engines, fuel, lines, and building materials.
+* **SIG Manufacturing:** Major sponsor supplying **Skybaby** airplanes, **Norvel .061** engines, fuel, lines, and building materials.
 * **Brodak Manufacturing:** Longtime community supporter providing control line kits, hardware, and parts.
 * **Thunder Power RC:** Supplied high-performance LiPo flight packs during the electric transition.
 * **Circle Masters Flying Club:** Fabricates airframes, maintains electronics, and oversees annual operations.
@@ -92,8 +92,8 @@ Over 30 years, generous aeromodeling manufacturers and partners have kept the fl
 ## Volunteers and Leadership
 * **Doug & Geri MacArthur:** Lead coordinators managing daily 4-hour shift rotations, logistics, and volunteer hospitality.
 * **Dan & Sean McEntee:** Active flight coaches, pit mechanics, and StuntHanger contributors supporting line maintenance and instruction.
-* **The Late Arthur Johnson (AMA #1825):** AMA member since 1953 and longtime District VI CD who dedicated decades to mentoring youth at KidVenture.
-* **The Late Robert "Bob" Arata (AMA #8786):** USAF veteran and aircraft mechanic who guided thousands of beginners using the dual-handle coaching method.
+* **The Late Arthur Johnson (AMA #1825):** AMA member since 1953 and longtime District VI CD; master engine technician and technical owner of all fleet aircraft who kept engines flawlessly tuned and flight-ready.
+* **The Late Robert "Bob" Arata (AMA #8786):** USAF veteran, aircraft mechanic, and designer of the **Skybaby** and co-designer of the **Tuf Baby**, who taught thousands of beginners using the dual-handle coaching method.
 * **Camp Scholler & Wednesday BBQ:** Volunteers camp together at Camp Scholler and host an annual Wednesday evening BBQ.
 
 ---

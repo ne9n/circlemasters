@@ -27,8 +27,8 @@ At EAA AirVenture in Oshkosh, Wisconsin, the Control Line (CL) area at Pioneer A
 Over three decades, the training fleet evolved through five distinct generations:
 1. **Club Members' Personal Models (Early 1990s):** Initial flights used volunteers' personal balsa airplanes.
 2. **Cox Plastic Ready-to-Fly (RTF):** Commercial plastic trainers (such as the Cox PT-19) powered by Cox .049 engines.
-3. **Bratco Skybabies (SIG Manufacturing):** Adopted **Bratco Skybaby** airplanes supplied and supported by **SIG Manufacturing**.
-4. **The "Tuf Baby" (Bob Arata & Dan McEntee):** Purpose-designed by St. Louis volunteers **Bob Arata** and **Dan McEntee**, utilizing Coroplast to endure heavy training cycles for many years.
+3. **The "Skybaby" (Designed by Bob Arata / SIG):** Designed by **Bob Arata** and produced as the Bratco Skybaby, supplied and supported by **SIG Manufacturing**.
+4. **The "Tuf Baby" (Bob Arata & Dan McEntee):** Purpose-designed by **Bob Arata** and **Dan McEntee**, utilizing Coroplast to endure heavy training cycles for many years.
 5. **The "Eagle 1" (Chris Sterner):** Modern electric Coroplast trainer designed by **Chris Sterner**, optimized for 2807 brushless outrunners and Dave Siegler electronic timers.
 
 ### Eagle 1 Specifications
@@ -45,7 +45,7 @@ Over three decades, the training fleet evolved through five distinct generations
 
 ### Engine & Sponsor Progression
 1. **Cox .049 Era:** Foundation years powered by Cox glow engines with factory engine and plug support.
-2. **Norvel .061 Era:** Transitioned to high-performance **Norvel .061** engines and **Bratco Skybaby** airplanes, supplied and supported by **SIG Manufacturing** alongside fuel and building supplies.
+2. **Norvel .061 Era:** Transitioned to high-performance **Norvel .061** engines and **Skybaby** airplanes, supplied and supported by **SIG Manufacturing** alongside fuel and building supplies.
 3. **Electric Era:** Powered by 2807 1300KV outrunners and **Thunder Power RC** LiPo batteries, managed by custom Siegler electronic timers for zero-mess, high-tempo operations.
 
 ---
@@ -53,8 +53,8 @@ Over three decades, the training fleet evolved through five distinct generations
 ## 4. Volunteer Team & Leadership
 * **Doug & Geri MacArthur:** National volunteer coordinators managing 4-hour shifts, logistics, safety orientations, and the annual Wednesday volunteer BBQ.
 * **Dan & Sean McEntee:** Veteran flight coaches and pit crew members active in the national CL and StuntHanger community.
-* **The Late Arthur Johnson (AMA #1825):** AMA member since 1953 and longtime District VI CD who spent decades mentoring young modelers.
-* **The Late Robert "Bob" Arata (AMA #8786):** USAF veteran and aircraft mechanic who guided thousands of students with the dual-handle coaching method.
+* **The Late Arthur Johnson (AMA #1825):** AMA member since 1953 and longtime District VI CD; master engine technician and technical owner of all fleet aircraft who kept engines flawlessly tuned and airworthy.
+* **The Late Robert "Bob" Arata (AMA #8786):** USAF veteran, aircraft mechanic, designer of the **Skybaby**, and co-designer of the **Tuf Baby**, who guided thousands of students with the dual-handle coaching method.
 * **Camp Scholler:** Shared camping base for instructors traveling from across North America and Europe.
 * **Multi-Generational Legacy:** Former student flyers from the 1990s and 2000s now bring their own children to Pioneer Airport. Many alumni have gone on to careers as commercial airline captains, military pilots, and aerospace engineers, returning to thank the volunteers.
 
