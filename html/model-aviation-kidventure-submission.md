@@ -62,8 +62,20 @@ Designed by **Chris Sterner**, the **Eagle One** is built specifically for high-
 | **Control Hardware** | 1/2-A Bellcrank, 1/16-in. music wire pushrod, steel lines |
 | **Plans** | Free download at [circlemasters.com](https://circlemasters.com) |
 
-### Electric Transition
-The fleet previously used Cox .049 glow engines. Modernizing to brushless electric power and custom solid-state timers eliminated hot restarts, needle adjustments, and fuel cleanup. The timers provide a smooth soft-start ramp, governed RPM, and a soft cutoff for landing.
+### Power System Evolution & Industry Support
+The KidVenture fleet's propulsion evolved through three distinct eras:
+* **Cox .049 Era:** Foundation years powered by legendary Cox reed-valve glow engines, supported directly with engines and parts from **Cox**.
+* **Norvel .061 Era:** Transitioned to high-performance **Norvel .061** engines, delivering greater power and reliability in the summer heat, backed by **SIG Manufacturing** with fuel, lines, and building supplies.
+* **Modern Brushless Electric Era:** Powered by 2807 1300KV outrunners and Siegler solid-state timers, supported by battery manufacturers including **Thunder Power RC**. Electric power eliminated hot restarts, needle valve tuning, and fuel cleanup, enabling rapid flight turnover.
+
+---
+
+## Industry & Community Sponsors
+Over 30 years, generous aeromodeling manufacturers and partners have kept the flight lines equipped:
+* **Cox:** Provided initial engines, glow plugs, and technical support.
+* **SIG Manufacturing:** Longtime partner supplying fuel, building supplies, hardware, and control line accessories.
+* **Thunder Power RC:** Supplied high-performance LiPo flight packs during the electric transition.
+* **Circle Masters Flying Club:** Fabricates airframes, maintains electronics, and oversees annual operations.
 
 ---
 

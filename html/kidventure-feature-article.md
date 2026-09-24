@@ -32,9 +32,15 @@ Designed by **Chris Sterner**, the **Eagle One** is built for extreme durability
 | **Wing Area** | 225 sq. in. | Low wing loading |
 | **Airframe Material** | 0.158-in. Coroplast | Fluted polypropylene; flexes on impact |
 | **Assembly** | Hot-melt adhesive | Quick field repairs |
-| **Power Unit** | 2807 1300KV Brushless Outrunner | Replaced legacy Cox .049 glow engines |
-| **Timer** | Solid-State Electronic Timer | Designed by Dave Siegler; governs RPM & soft cutoff |
+| **Power Evolution** | Cox .049 &rarr; Norvel .061 &rarr; 2807 Brushless | Historical engine progression |
+| **Timer System** | Solid-State Electronic Timer | Designed by Dave Siegler; governs RPM & soft cutoff |
+| **Industry Support** | Cox, SIG Manufacturing, Thunder Power RC | Engines, fuel, hardware, LiPo packs |
 | **Plans** | Free Download | Available at [circlemasters.com](https://circlemasters.com) |
+
+### Engine & Sponsor Progression
+1. **Cox .049 Era:** Foundation years powered by Cox glow engines with factory engine and plug support.
+2. **Norvel .061 Era:** Transitioned to high-performance Norvel .061 engines with support from **SIG Manufacturing** for fuel, building supplies, and control line hardware.
+3. **Electric Era:** Powered by 2807 1300KV outrunners and **Thunder Power RC** LiPo batteries, managed by custom Siegler electronic timers for zero-mess, high-tempo operations.
 
 ---
 
