@@ -136,7 +136,7 @@ Over the years, the KidVenture flight circles have welcomed an illustrious roste
 
 * **Gilbert and Véronique Béringer:** The visionary founders of *Beringer Aero* and international aerobatic competitors from France, bringing world-class European precision flying, engineering excellence, and global passion for model aviation to the Oshkosh turf.
 * **Tom Siegler:** Multiple-time national competitor and champion stunt flyer, thrilling crowds with razor-sharp square loops, vertical eights, and graceful four-leaf clovers flown right down on the grass.
-* **Aviation Legends & Visitors:** Iconic aerospace pioneers—including legendary aircraft designer **Burt Rutan**—have visited and celebrated the KidVenture control line circles, recognizing tethered flight as one of the purest foundational roots of aerospace design and piloting intuition.
+* **Aviation Legends & Leadership:** Iconic aerospace pioneers—including legendary aircraft designer **Burt Rutan**—and key EAA leadership like **Sean Elliott** (EAA Vice President of Advocacy and Safety, airshow pilot, and passionate champion of youth aviation pathways) have visited and celebrated the KidVenture control line circles, recognizing tethered flight as one of the purest foundational roots of aerospace design and piloting intuition.
 * **Master Precision Demonstrators:** Master pilots from across North America perform the official AMA Precision Aerobatics pattern—consecutive inside loops, inverted horizontal flight, vertical eights, and the cloverleaf—showing young students the breathtaking artistic and technical heights that began with their very first flight on an Eagle One.
 
 ---

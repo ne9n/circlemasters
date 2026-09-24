@@ -140,7 +140,7 @@ Witness the instructional technique, student reactions, and volunteer teamwork i
 3. **Precision Aerobatics (CL Stunt) Airshows & Champion Mentors:** Between training flights, the circle is handed over to master modelers and world-renowned champions:
    * **Gilbert and Véronique Béringer:** Visionary founders of *Beringer Aero* and international aerobatic champions from France, flying high-precision demonstration routines and sharing their global passion for aviation.
    * **Tom Siegler:** Multiple-time national competitor and stunt champion, flying breathtaking low-altitude maneuvers and inverted passes right across the Pioneer turf.
-   * **Burt Rutan & Aerospace Icons:** Renowned aerospace innovators—including legendary designer **Burt Rutan**—have visited and championed the control line flight line, celebrating tethered model flight as a vital gateway to aeronautical engineering and piloting instinct.
+   * **Burt Rutan, Sean Elliott & Aviation Leadership:** Renowned aerospace innovators—including legendary designer **Burt Rutan**—and EAA leadership like **Sean Elliott** (EAA Vice President of Advocacy and Safety) have visited and championed the control line flight line, celebrating tethered model flight as a vital gateway to aeronautical engineering and piloting instinct.
    * **The AMA Stunt Pattern:** Master pilots fly the complete precision pattern—consecutive inside/outside loops, horizontal eights, vertical eights, and the cloverleaf—giving young pilots an unforgettable look at the ultimate possibilities of the sport.
 
 ---
