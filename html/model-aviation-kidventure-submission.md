@@ -128,15 +128,20 @@ For the volunteer crew, Oshkosh is also an annual family reunion. Many camp toge
 
 ---
 
-## 5. Beyond the Basics: Precision Aerobatics Airshows
-Between instructional flights, master modelers step onto the circles with full-size competition stunt aircraft to put on **Precision Aerobatics (CL Stunt)** demonstrations on 60-foot lines. 
+## 5. World-Class Aerobatics: International Champions on the Circle
+Between instructional flights, master modelers and renowned champions step onto the circles with full-size competition stunt aircraft to put on **Precision Aerobatics (CL Stunt)** demonstrations on 60-foot lines.
 
-Flying through the complete AMA Precision Aerobatics pattern—inside loops, inverted horizontal passes, vertical figure-eights, and the cloverleaf just feet off the grass—these demonstrations showcase the high-level artistry, precision, and performance possibilities of modern control line flying to thousands of amazed spectators.
+Over the years, the KidVenture flight circles have welcomed an illustrious roster of national and international champions, aerospace legends, and master craftsmen who fly demonstrations, mentor young flyers, and celebrate the sport:
+
+* **Gilbert and Véronique Béringer:** The visionary founders of *Beringer Aero* and international aerobatic competitors from France, bringing world-class European precision flying, engineering excellence, and global passion for model aviation to the Oshkosh turf.
+* **Tom Siegler:** Multiple-time national competitor and champion stunt flyer, thrilling crowds with razor-sharp square loops, vertical eights, and graceful four-leaf clovers flown right down on the grass.
+* **Aviation Legends & Visitors:** Iconic aerospace pioneers—including legendary aircraft designer **Burt Rutan**—have visited and celebrated the KidVenture control line circles, recognizing tethered flight as one of the purest foundational roots of aerospace design and piloting intuition.
+* **Master Precision Demonstrators:** Master pilots from across North America perform the official AMA Precision Aerobatics pattern—consecutive inside loops, inverted horizontal flight, vertical eights, and the cloverleaf—showing young students the breathtaking artistic and technical heights that began with their very first flight on an Eagle One.
 
 ---
 
 ### [PHOTO 5: Precision Aerobatic Demonstration]
-*Caption: A veteran stunt pilot performs an inverted level pass just above the grass at Pioneer Airport, demonstrating the precision potential of control line aerobatics.*
+*Caption: Master pilots and international champions perform inverted passes and precision maneuvers just above the grass at Pioneer Airport, inspiring thousands of young spectators.*
 
 ---
 

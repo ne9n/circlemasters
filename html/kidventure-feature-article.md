@@ -123,12 +123,12 @@ Witness the instructional technique, student reactions, and volunteer teamwork i
 
 ---
 
-## 7. The Flight Experience: From Takeoff to Stunt Airshow
+## 7. The Flight Experience & World-Class Aerobatics
 
 ```
  +────────────────────────+     +────────────────────────+     +────────────────────────+
- │  1. PRE-FLIGHT BRIEF   │     │  2. FLIGHT IN COMMAND  │     │ 3. PRECISION AIRSHOWS  │
- │ • Wrist up / Wrist down│     │ • Electric soft-start  │     │ • Stunt demonstrations │
+ │  1. PRE-FLIGHT BRIEF   │     │  2. FLIGHT IN COMMAND  │     │ 3. WORLD CHAMP AIRSHOW │
+ │ • Wrist up / Wrist down│     │ • Electric soft-start  │     │ • National Champions   │
  │ • Maintaining tension  │ ==> │ • Liftoff in 1/2 lap   │ ==> │ • Inside/outside loops │
  │ • Body rotation basics │     │ • Level flight mastery │     │ • Inverted & 8-figures │
  +────────────────────────+     +────────────────────────+     +────────────────────────+
@@ -136,7 +136,11 @@ Witness the instructional technique, student reactions, and volunteer teamwork i
 
 1. **Pre-Flight Briefing:** Ground crew instructors explain the basic mechanics: tilting the wrist backward pulls the top line, raising the elevator to climb; tilting forward commands a descent.
 2. **The First Flight:** As the electric timer engages and the propeller spins up, the pit crew releases the model. Within half a lap, the Eagle One lifts off. The immediate tactile feedback—feeling the tension and hearing the motor hum on the wire—creates an instant, memorable connection to flight.
-3. **Precision Aerobatics (CL Stunt) Airshows:** Between training flights, master aeromodelers take to the circle flying full-size competition stunt aircraft on 60-foot lines. Performing the official AMA Precision Aerobatics pattern—consecutive inside loops, inverted horizontal flight, vertical eights, and the cloverleaf—these demonstrations show young pilots where their new skills can take them.
+3. **Precision Aerobatics (CL Stunt) Airshows & Champion Mentors:** Between training flights, the circle is handed over to master modelers and world-renowned champions:
+   * **Gilbert and Véronique Béringer:** Visionary founders of *Beringer Aero* and international aerobatic champions from France, flying high-precision demonstration routines and sharing their global passion for aviation.
+   * **Tom Siegler:** Multiple-time national competitor and stunt champion, flying breathtaking low-altitude maneuvers and inverted passes right across the Pioneer turf.
+   * **Burt Rutan & Aerospace Icons:** Renowned aerospace innovators—including legendary designer **Burt Rutan**—have visited and championed the control line flight line, celebrating tethered model flight as a vital gateway to aeronautical engineering and piloting instinct.
+   * **The AMA Stunt Pattern:** Master pilots fly the complete precision pattern—consecutive inside/outside loops, horizontal eights, vertical eights, and the cloverleaf—giving young pilots an unforgettable look at the ultimate possibilities of the sport.
 
 ---
 
