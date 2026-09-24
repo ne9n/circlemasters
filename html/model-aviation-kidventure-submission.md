@@ -112,11 +112,11 @@ Managing the logistics for a seven-day flight operation with dozens of rotating 
 ### Dan and Sean McEntee — Multi-Generational Flight Line Champions
 Well-known fixtures in the national control line community and on StuntHanger forums, Dan and Sean McEntee embody the family-driven spirit of aeromodeling. Bringing deep technical craftsmanship, motor tuning expertise, and tireless enthusiasm to Pioneer Airport, the McEntees work the circles all week long, coaching kids on the handle, helping maintain the flight line, and ensuring that every young visitor leaves with a genuine sense of accomplishment.
 
-### Arthur Johnson (AMA #1825) — 70+ Years in Aeromodeling
-An AMA member since 1953 and long-time AMA District VI Control Line Contest Director, Arthur exemplifies the spirit of giving back. For Arthur, seeing a young person light up as they hold the handle for the first time is the ultimate reward—a direct continuation of the modeling passion that started for him over seven decades ago.
+### The Late Arthur Johnson (AMA #1825) — A Lifetime Dedicated to Model Aviation
+An AMA member since 1953 and longtime AMA District VI Control Line Contest Director, the late Arthur Johnson exemplified the true spirit of giving back. For decades, Arthur poured his heart into youth aeromodeling, cherishing the "lightbulb moment" when a child held the handle for the first time. His legacy of patient mentorship remains an enduring pillar of the KidVenture flight program.
 
-### Robert "Bob" Arata (AMA #8786) — Decades on the Grass
-A U.S. Air Force veteran and master aircraft mechanic, Bob spent decades volunteering on the grass at Pioneer Airport. Bob’s gentle coaching demeanor and mastery of the dual-handle technique helped thousands of nervous children find their confidence in the center of the circle.
+### The Late Robert "Bob" Arata (AMA #8786) — Decades of Service on the Turf
+A U.S. Air Force veteran and master aircraft mechanic, the late Bob Arata dedicated decades of his life to volunteering on the grass at Pioneer Airport. Bob’s gentle coaching demeanor and mastery of the dual-handle safety technique helped thousands of nervous children find their confidence in the center of the circle, leaving an indelible mark on generations of young flyers.
 
 ### Camp Scholler & The Wednesday Volunteer BBQ
 For the volunteer crew, Oshkosh is also an annual family reunion. Many camp together in Camp Scholler, sharing morning breakfasts and evening debriefs. The highlight of the week is the **Annual Wednesday Control Line Volunteer BBQ**, where instructors, mechanics, and stunt pilots gather for an evening of food, fellowship, and lively "hangar flying."

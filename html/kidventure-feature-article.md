@@ -72,13 +72,13 @@ Running continuous flight operations under the summer heat requires a dedicated,
 * **Role:** Flight Coaches, Technical Pit Crew & StuntHanger Community Leaders
 * **Impact:** Longtime mainstays of the control line community, Dan and Sean bring immense practical knowledge, motor tuning, and hands-on coaching to the circles. Working side-by-side on the turf at Pioneer Airport, they guide beginners through their first flights, troubleshoot airframes, and foster the family-oriented spirit that defines the hobby.
 
-### Arthur Johnson (AMA #1825) — Passing the Aeromodeling Torch
-* **Role:** Veteran Flight Instructor; AMA District VI Control Line Contest Director (AMA Member since 1953)
-* **Perspective:** With more than 60 years of aeromodeling expertise, Arthur emphasizes the profound value of grassroots youth outreach. For Arthur, the true reward of Oshkosh is witnessing the "lightbulb moment" when a child steps into the circle, overcomes their initial hesitation, and experiences pure flight command on the wires.
+### The Late Arthur Johnson (AMA #1825) — Passing the Aeromodeling Torch
+* **Role:** In Memoriam — Veteran Flight Instructor & AMA District VI Control Line Contest Director (AMA Member since 1953)
+* **Legacy & Perspective:** With more than 60 years of aeromodeling expertise, the late Arthur Johnson was a passionate champion for youth outreach. For Arthur, the true reward of Oshkosh was witnessing the "lightbulb moment" when a child stepped into the circle, overcame their hesitation, and experienced pure flight command on the wires. His warmth and encouragement inspired countess young modelers.
 
-### Robert "Bob" Arata (AMA #8786) — Decades of Dedicated Service
-* **Role:** Flight Instructor, USAF Veteran & Master Aircraft Mechanic
-* **Perspective:** A fixture on the Pioneer Airport turf for decades, Bob utilized his extensive mechanical background and steady coaching demeanor to guide thousands of first-time flyers. Bob’s emphasis on the dual-handle technique ensured that even during sudden maneuvers or gusty conditions, every child enjoyed a safe, confidence-building flight.
+### The Late Robert "Bob" Arata (AMA #8786) — Decades of Dedicated Service
+* **Role:** In Memoriam — Flight Instructor, USAF Veteran & Master Aircraft Mechanic
+* **Legacy & Perspective:** A fixture on the Pioneer Airport turf for decades, the late Bob Arata utilized his extensive aircraft mechanic background and steady coaching demeanor to guide thousands of first-time flyers. Bob’s emphasis on the dual-handle technique ensured that every child enjoyed a safe, confidence-building flight, establishing a standard of instruction that lives on today.
 
 ---
 
