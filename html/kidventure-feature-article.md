@@ -8,8 +8,6 @@
 ## 1. Overview & Flight Physics
 At EAA AirVenture in Oshkosh, Wisconsin, the Control Line (CL) area at Pioneer Airport offers hands-on flight training for youth. Unlike computer simulators, control line flying provides direct, physical control feedback:
 * **Aerodynamic Control:** Two thin steel lines connect a central control handle to an internal bellcrank and elevator pushrod.
-* **Pitch Mechanics:** Tilting the wrist backward raises the elevator to climb; tilting forward lowers the elevator to dive.
-* **Centrifugal Tension:** Line tension counteracts centrifugal force, allowing the pilot to physically feel air loads and motor thrust throughout the flight.
 
 ---
 
@@ -56,7 +54,7 @@ Over three decades, the training fleet evolved through five distinct generations
 * **Chris Sterner:** Current Chairman of the KidVenture Control Line program and designer of the Eagle 1 trainer.
 * **Don Dargle:** Co-Chairman and flight line operations coordinator.
 * **Dave Siegler:** Co-Chairman, developer of the solid-state electronic timer, and club coordinator.
-* **Doug & Geri MacArthur:** National volunteer coordinators managing 4-hour shifts, logistics, safety orientations, and the annual Wednesday volunteer BBQ.
+* **Doug & Geri MacArthur:**  Former chairman and national volunteer coordinators managing 4-hour shifts, logistics, safety orientations, and the annual Wednesday volunteer BBQ.
 * **Dan & Sean McEntee:** Veteran flight coaches and pit crew members active in the national CL and StuntHanger community.
 * **Jim & Julie Krueger:** Longtime core volunteers providing one-on-one student coaching, ground operations, and flight line coordination.
 * **The Late Arthur Johnson (AMA #1825):** AMA member since 1953 and longtime District VI CD; master engine technician and technical owner of all fleet aircraft who kept engines flawlessly tuned and airworthy.
@@ -72,7 +70,7 @@ Between training sessions, master flyers demonstrate advanced flight disciplines
 * **Noisy Pulse Jet Flights:** High-speed pulse jet demonstrations draw huge crowds across Pioneer Airport with their unmistakable, deafening roar and glowing tailpipes.
 * **Todd Lee:** Master stunt pilot performing precision aerobatic routines and mentoring youth.
 * **Gilbert & Véronique Béringer:** Founders of *Beringer Aero* and international competitors from France.
-* **Tom Siegler:** National Control Line Combat champion demonstrating high-speed maneuvering.
+
 * **Burt Rutan & Sean Elliott:** Legendary designer Burt Rutan and EAA VP Sean Elliott have visited and supported the flight line.
 * **Precision Aerobatics (CL Stunt):** Master pilots fly the complete AMA pattern (loops, inverted passes, eights, cloverleafs).
 
