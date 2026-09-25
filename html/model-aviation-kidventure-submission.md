@@ -3,7 +3,7 @@
 **Authors:** Chris Sterner (Chairman), Don Dargle (Co-Chairman), David Siegler (Co-Chairman), and the Circle Masters Flying Club Volunteer Team  
 **Target Publication:** *Model Aviation*  
 **Category:** Feature / Youth Outreach  
-**Contact:** Dave Siegler (dwsiegler@gmail.com) | [circlemasters.com](https://circlemasters.com)
+**Contacts:** Chris Sterner (`sterner6854@gmail.com`) | Dave Siegler (`dwsiegler@gmail.com`) | Program (`kidventurecl@outlook.com`) | [circlemasters.com](https://circlemasters.com)
 
 ---
 
@@ -64,21 +64,25 @@ The aircraft fleet evolved through continuous field testing to maximize durabili
 ---
 
 ## Aircraft Engineering: The Eagle 1 Trainer
-| Specification | Details |
-| :--- | :--- |
-| **Wingspan** | 30-1/4 in. |
-| **Wing Area** | 225 sq. in. |
-| **Material** | 0.158-in. Fluted Polypropylene (Coroplast) |
-| **Adhesive** | High-strength hot-melt glue along flutes and joints |
-| **Power System** | 2807 1300KV Brushless Outrunner & ESC |
-| **Flight Timer** | Custom Solid-State Electronic Timer (Dave Siegler) |
-| **Control Hardware** | 1/2-A Bellcrank, 1/16-in. music wire pushrod, steel lines |
-| **Plans** | Free download at [circlemasters.com](https://circlemasters.com) |
+| Specification | Details | Construction Notes |
+| :--- | :--- | :--- |
+| **Wingspan** | 30-1/4 in. | Stable beginner geometry |
+| **Wing Area** | 225–226 sq. in. | Low wing loading |
+| **Material** | 0.158-in. (4mm) Fluted Polypropylene (Coroplast) | Readily available sign board (Amerilux 24x36 in.) |
+| **Adhesives** | High-temp hot-melt glue | Applied along full length of seams and flutes |
+| **Power System** | 2807 1300KV Brushless Outrunner & 30A ESC | Fitted with 3.5mm bullet connectors |
+| **Flight Timer** | Custom Solid-State Electronic Timer (Dave Siegler) | Governs governed RPM, soft start, and 2.5-min cutoff |
+| **Flight Battery** | 3S LiPo Packs (Thunder Power RC) | Integrated fuselage battery tray |
+| **Control Hardware** | SIG 1/2-A Bellcrank, SIG / Du-Bro 919 Micro2 Horn | 1/16-in. music wire pushrod with Z-bend / Kwik-Link |
+| **Elevator Hinge** | 3M Blenderm Surgical Tape | Waterproof, flexible, and fatigue-proof (or clear packing tape) |
+| **Wing Tip Weight** | 1/2 to 3/4 oz. lead in outboard wing | Maintains positive line tension |
+| **Reinforcements** | 1/8-in. plywood motor mount; 3/32-in. bellcrank plate | Resists motor torque and line pull |
+| **Free Plans** | Full-Size PDF Download | Free download at [circlemasters.com](https://circlemasters.com) or email `kidventurecl@outlook.com` |
 
 ### Power System Evolution & Industry Support
 The KidVenture fleet's propulsion evolved through three distinct eras:
 * **Cox .049 Era:** Foundation years powered by legendary Cox reed-valve glow engines, supported directly with engines and parts from **Cox**.
-* **Norvel .061 Era:** Transitioned to high-performance **Norvel .061** engines, supplied and backed by **SIG Manufacturing** along with Skybaby airplanes, fuel, lines, and building supplies.
+* **Norvel .061 Era:** Transitioned to high-performance **Norvel .061 Big Mig** engines (turning 6x3 props) on the Bob Arata / Dan McEntee Coroplast **Tough Baby** (drawn by Art Johnson) and **Bratco Skybabies**, supplied and backed by **SIG Manufacturing** with fuel, lines, and building supplies.
 * **Modern Brushless Electric Era:** Powered by 2807 1300KV outrunners and Siegler solid-state timers, supported by battery manufacturers including **Thunder Power RC**. Electric power eliminated hot restarts, needle valve tuning, and fuel cleanup, enabling rapid flight turnover.
 
 ---

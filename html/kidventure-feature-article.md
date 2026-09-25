@@ -14,11 +14,13 @@ At EAA AirVenture in Oshkosh, Wisconsin, the Control Line (CL) area at Pioneer A
 
 ---
 
-## 2. Operations Data, Field Conditions & Airspace Fit
-* **30+ Years of Operation:** Initiated by Wisconsin modelers and supported by the Circle Masters Flying Club, EAA, and AMA.
+## 2. Origins, Operations Data & Airspace Fit
+* **Origins & Early Collaboration:** Control line flying at the EAA convention predates the establishment of KidVenture. Seeking engaging, hands-on activities for youth, **Sean Elliott** reached out to the **Milwaukee Circle Masters** to introduce control line flying to the convention, establishing a decades-long tradition.
+* **30+ Years of Operation:** Supported by the Circle Masters Flying Club, EAA, and AMA.
 * **25,000+ Flights Logged:** Provided free flight instruction to youth from over 80 countries.
 * **7-Day AirVenture Schedule:** Monday–Saturday: 9:00 AM – 3:30 PM; Sunday: 9:00 AM – 2:00 PM.
 * **Two Flight Circles:** Two simultaneous turf circles operating continuously.
+* **Hand-Launch Operations:** Aircraft omit landing gear for grass durability; ground crew members hand-launch each plane into the wind.
 * **Field & Weather Conditions:** Flights operate over hard-packed grass under frequently hot, humid, and windy Wisconsin summer conditions.
 * **Tight Airspace Compatibility:** Control line is ideal for EAA's congested airspace. Because airplanes remain physically tethered to a fixed 50–60 ft radius, flights stay contained within a safe, predictable volume without infringing on full-scale traffic.
 * **Adjacent to Bell 47 Runway:** The circles operate immediately adjacent to the active Pioneer Airport turf runway and helipad where iconic **Bell 47 helicopters** provide continuous passenger rides throughout AirVenture.
@@ -30,24 +32,29 @@ Over three decades, the training fleet evolved through five distinct generations
 1. **Club Members' Personal Models (Early 1990s):** Initial flights used volunteers' personal balsa airplanes.
 2. **Cox Plastic Ready-to-Fly (RTF):** Commercial plastic trainers (such as the Cox PT-19) powered by Cox .049 engines.
 3. **Bratco Skybabies (SIG Manufacturing):** Adopted **Bratco Skybaby** airplanes supplied and supported by **SIG Manufacturing**.
-4. **The "Tuf Baby" (Bob Arata & Dan McEntee):** Designed out of durable Coroplast by St. Louis volunteers **Bob Arata** and **Dan McEntee** as the rugged replacement for the Skybaby to endure heavy training cycles for many years.
+4. **The "Tuf Baby" (Bob Arata & Dan McEntee):** Designed out of durable Coroplast by St. Louis volunteers **Bob Arata** and **Dan McEntee** (plans drawn by **Art Johnson**) as the rugged replacement for the Skybaby to endure heavy training cycles for many years.
 5. **The "Eagle 1" (Chris Sterner):** Modern electric Coroplast trainer designed by **Chris Sterner**, optimized for 2807 brushless outrunners and Dave Siegler electronic timers.
 
-### Eagle 1 Specifications
-| Specification | Value | Notes |
+### Eagle 1 Specifications & Bill of Materials
+| Specification | Value | Notes / Materials |
 | :--- | :--- | :--- |
-| **Wingspan** | 30-1/4 in. | Stable beginner platform |
-| **Wing Area** | 225 sq. in. | Low wing loading |
-| **Airframe Material** | 0.158-in. Coroplast | Fluted polypropylene; flexes on impact |
-| **Assembly** | Hot-melt adhesive | Quick field repairs |
-| **Power Evolution** | Cox .049 &rarr; Norvel .061 &rarr; 2807 Brushless | Historical engine progression |
-| **Timer System** | Solid-State Electronic Timer | Designed by Dave Siegler; governs RPM & soft cutoff |
+| **Wingspan** | 30-1/4 in. | Stable beginner geometry |
+| **Wing Area** | 225–226 sq. in. | Low wing loading |
+| **Airframe Material** | 0.158-in. (4mm) Coroplast | Fluted polypropylene (Amerilux 24x36 in. sign board) |
+| **Assembly Adhesive** | High-temp hot-melt glue | Applied along full seam lengths and flute channels |
+| **Motor & ESC** | 2807 1300KV Outrunner & 30A ESC | Fitted with 3.5mm bullet connectors |
+| **Flight Timer** | Solid-State Electronic Timer | Designed by Dave Siegler; governs RPM & 2.5-min soft cutoff |
+| **Flight Battery** | 3S LiPo Packs | Thunder Power RC packs in integrated battery box |
+| **Control Hardware** | SIG 1/2-A Bellcrank & Control Horn | 1/16-in. music wire pushrod with Z-bend / Du-Bro Kwik-Link |
+| **Elevator Hinge** | 3M Blenderm Surgical Tape | Waterproof, flexible, and fatigue-proof (or clear packing tape) |
+| **Wing Tip Weight** | 1/2 to 3/4 oz. | Outboard wing tip weight for solid line tension |
+| **Reinforcements** | Plywood mounts | 1/8-in. plywood motor mount; 3/32-in. bellcrank platform |
 | **Industry Support** | Cox, SIG, Brodak, Thunder Power RC | Airplanes, engines, fuel, hardware, LiPo packs |
-| **Plans** | Free Download | Available at [circlemasters.com](https://circlemasters.com) |
+| **Plans & Distribution** | Free Full-Size PDF | Download at [circlemasters.com](https://circlemasters.com) or email `kidventurecl@outlook.com` |
 
 ### Engine & Sponsor Progression
 1. **Cox .049 Era:** Foundation years powered by Cox glow engines with factory engine and plug support.
-2. **Norvel .061 Era:** Transitioned to high-performance **Norvel .061** engines and **Skybaby** airplanes, supplied and supported by **SIG Manufacturing** alongside fuel and building supplies.
+2. **Norvel .061 Era:** Transitioned to high-performance **Norvel .061 Big Mig** engines (6x3 prop) and **Skybaby** airplanes, supplied and supported by **SIG Manufacturing** alongside fuel and building supplies.
 3. **Electric Era:** Powered by 2807 1300KV outrunners and **Thunder Power RC** LiPo batteries, managed by custom Siegler electronic timers for zero-mess, high-tempo operations.
 
 ---
