@@ -25,7 +25,7 @@ Holding a control handle tethered to dual steel lines, a child feels the mechani
 ## 1. The Roots of Control Line at AirVenture
 Control line flying at Oshkosh actually predates the formal establishment of KidVenture. Seeking engaging, hands-on activities that would allow kids to touch and fly real airplanes, **Sean Elliott**—a former Junior National Stunt Champion and future EAA Vice President—teamed up with **Jim Krueger** and the **Milwaukee Circle Masters**. 
 
-At the annual SIG Manufacturing control line contest in Montezuma, Iowa, Krueger approached longtime competitor **Dan McEntee** to recruit seasoned modelers from the St. Louis area, including **Bob Arata** and **Jan Potts**. That handshake in Iowa ignited a multi-decade aeromodeling mission that has united clubs across the Midwest and beyond.
+In an unforgettable recruiting mission, Elliott flew EAA's full-scale **Spirit of St. Louis** replica directly to the annual SIG Manufacturing control line contest in Montezuma, Iowa. Landing the historic aircraft in Iowa, Elliott and Krueger approached longtime competitor **Dan McEntee** to recruit seasoned modelers from the St. Louis area, including **Bob Arata** and **Jan Potts**, to join the Oshkosh flight line crew. That dramatic arrival and handshake in Iowa ignited a multi-decade aeromodeling mission that has united clubs across the Midwest and beyond.
 
 ---
 
