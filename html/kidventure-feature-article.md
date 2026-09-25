@@ -35,26 +35,10 @@ The instructional fleet evolved across five distinct generations:
 4. **The "Tuf Baby" (Bob Arata & Dan McEntee, 2010):** On the long drive back to St. Louis, Bob Arata and Dan McEntee conceived an indestructible airframe using fluted polypropylene (Coroplast) flying surfaces paired with a durable wood fuselage. Drawn by **Art Johnson**, Bob Arata built the original five *Tuf Babies* in 2010. These same five airframes survived thousands of flights over multiple seasons without retiring a single plane, saving countless hours for master engine technician Art Johnson.
 5. **The "Eagle 1" (Chris Sterner):** Modern purpose-built electric Coroplast trainer designed by **Chris Sterner**, optimized for brushless power and Dave Siegler electronic timers.
 
-### Eagle 1 Specifications & Bill of Materials
-*(Note: Complete construction details, full-size printable CAD plans, bill of materials, and step-by-step assembly instructions for the Eagle 1 will be featured as a companion construction article in Model Aviation for modelers and AMA clubs looking to build their own indestructible youth training fleet.)*
+### Aircraft Engineering: The Eagle 1 Trainer
+The **Eagle 1**, designed by Chris Sterner, represents the culmination of three decades of continuous flight-line evolution at EAA AirVenture. Engineered specifically to withstand the rigors of thousands of first-time student flights, the aircraft features a 30-1/4″ wingspan, 226 sq. in. wing area, and durable 0.158″ (4mm) fluted polypropylene (Coroplast) construction powered by an electric brushless outrunner motor.
 
-The Eagle 1 represents the culmination of three decades of continuous flight-line evolution at EAA AirVenture. Engineered specifically by Chris Sterner to withstand the rigors of thousands of first-time student flights, the aircraft pairs durable 0.158″ (4mm) fluted polypropylene (Coroplast) with reliable electric brushless power and solid-state timer control.
-
-| Specification | Details | Materials & Construction Notes |
-| :--- | :--- | :--- |
-| **Wingspan** | 30-1/4 in. | Stable beginner geometry |
-| **Wing Area** | 225–226 sq. in. | Low wing loading |
-| **Airframe Material** | 0.158-in. (4mm) Coroplast | Fluted polypropylene (Amerilux 24x36 in. sign board) |
-| **Assembly Adhesive** | High-temp hot-melt glue | Applied along full length of seams and flutes |
-| **Power System** | 2807 1300KV Outrunner & 30A ESC | 3.5mm bullet connectors; 2-blade electric prop |
-| **Flight Timer** | Solid-State Electronic Timer (Dave Siegler) | Governs RPM, soft start, and 2.5-min timed cutoff |
-| **Flight Battery** | 3S LiPo Packs (Thunder Power RC) | Integrated fuselage battery tray |
-| **Control Hardware** | SIG 1/2-A Bellcrank & Control Horn | 1/16-in. music wire pushrod with Z-bend / Du-Bro Kwik-Link |
-| **Elevator Hinge** | 3M Blenderm Surgical Tape | Waterproof, flexible, and fatigue-proof |
-| **Wing Tip Weight** | 1/2 to 3/4 oz. lead | Embedded in outboard wing tip for line tension |
-| **Reinforcements** | Plywood mounts | 1/8-in. motor mount; 3/32-in. bellcrank platform |
-| **Industry Sponsors** | Cox, SIG, Brodak, Thunder Power RC | Airplanes, engines, fuel, hardware, LiPo packs |
-| **Plans & Distribution** | Free Full-Size PDF Download | Available at [circlemasters.com](https://circlemasters.com) or email `kidventurecl@outlook.com` |
+*(Editor's Note: Complete construction details, full-size printable CAD plans, a detailed Bill of Materials, step-by-step assembly instructions, and the schematic/programming for Dave Siegler's solid-state electronic flight timer will be published in a dedicated, comprehensive **Eagle 1 Construction Article** in a future issue of Model Aviation.)*
 
 ---
 

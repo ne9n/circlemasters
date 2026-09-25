@@ -65,24 +65,11 @@ The aircraft fleet evolved through continuous field testing to maximize durabili
 ---
 
 ## Aircraft Engineering: The Eagle 1 Trainer
-*(Note: Complete construction details, full-size printable CAD plans, bill of materials, and step-by-step assembly instructions for the Eagle 1 will be featured as a companion construction article in Model Aviation for modelers and AMA clubs looking to build their own indestructible youth training fleet.)*
+The **Eagle 1**, designed by Chris Sterner, represents the culmination of three decades of continuous flight-line evolution at EAA AirVenture. Engineered specifically to withstand the rigors of thousands of first-time student flights, the aircraft features a 30-1/4″ wingspan, 226 sq. in. wing area, and durable 0.158″ (4mm) fluted polypropylene (Coroplast) construction powered by an electric brushless outrunner motor.
 
-The Eagle 1 represents the culmination of three decades of continuous flight-line evolution at EAA AirVenture. Engineered specifically by Chris Sterner to withstand the rigors of thousands of first-time student flights, the aircraft pairs durable 0.158″ (4mm) fluted polypropylene (Coroplast) with reliable electric brushless power and solid-state timer control.
+*(Editor's Note: Complete construction details, full-size printable CAD plans, a detailed Bill of Materials, step-by-step assembly instructions, and the schematic/programming for Dave Siegler's solid-state electronic flight timer will be published in a dedicated, comprehensive **Eagle 1 Construction Article** in a future issue of Model Aviation.)*
 
-| Specification | Details | Construction Notes |
-| :--- | :--- | :--- |
-| **Wingspan** | 30-1/4 in. | Stable beginner geometry |
-| **Wing Area** | 225–226 sq. in. | Low wing loading |
-| **Material** | 0.158-in. (4mm) Fluted Polypropylene (Coroplast) | Readily available sign board (Amerilux 24x36 in.) |
-| **Adhesives** | High-temp hot-melt glue | Applied along full length of seams and flutes |
-| **Power System** | 2807 1300KV Brushless Outrunner & 30A ESC | Fitted with 3.5mm bullet connectors |
-| **Flight Timer** | Custom Solid-State Electronic Timer (Dave Siegler) | Governs RPM, soft start, and 2.5-min cutoff |
-| **Flight Battery** | 3S LiPo Packs (Thunder Power RC) | Integrated fuselage battery tray |
-| **Control Hardware** | SIG 1/2-A Bellcrank, SIG / Du-Bro 919 Micro2 Horn | 1/16-in. music wire pushrod with Z-bend / Kwik-Link |
-| **Elevator Hinge** | 3M Blenderm Surgical Tape | Waterproof, flexible, and fatigue-proof (or clear packing tape) |
-| **Wing Tip Weight** | 1/2 to 3/4 oz. lead in outboard wing | Maintains positive line tension |
-| **Reinforcements** | 1/8-in. plywood motor mount; 3/32-in. bellcrank plate | Resists motor torque and line pull |
-| **Free Plans** | Full-Size PDF Download | Free download at [circlemasters.com](https://circlemasters.com) or email `kidventurecl@outlook.com` |
+---
 
 ### Power System Evolution & Industry Support
 The KidVenture fleet's propulsion evolved through three distinct eras:
