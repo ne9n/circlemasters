@@ -18,8 +18,10 @@ Holding the control handle tethered to dual steel lines, first-time flyers direc
 ### [PHOTO 1: Pioneer Airport Flight Line]
 *Caption: Two active control line flight circles operating at Pioneer Airport during EAA AirVenture Oshkosh.*
 
----
+## The Roots of Control Line at EAA
 
+**Control line flying at the EAA convention actually predates the establishment of KidVenture. Seeking engaging, hands-on activities for young attendees, Sean Eliot reached out to the Milwaukee Circle Masters to introduce control line flying to the event. This early collaboration laid the groundwork for what would become a decades-long tradition of youth aviation education at Oshkosh.
+---**
 ## Operations and 30-Year History
 * **Flight Volume:** Over 25,000 instructional flights logged over 30+ years.
 * **Schedule:** 7 days during AirVenture week (Mon–Sat: 9:00 AM – 3:30 PM; Sun: 9:00 AM – 2:00 PM).
