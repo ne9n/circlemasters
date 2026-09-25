@@ -4,6 +4,9 @@
 *Circle Masters Flying Club* | [circlemasters.com](https://circlemasters.com)
 
 ---
+## The Roots of Control Line at EAA
+
+Control line flying at the EAA convention actually predates the establishment of KidVenture. Seeking engaging, hands-on activities for young attendees, Sean Eliot reached out to the Milwaukee Circle Masters to introduce control line flying to the event. This early collaboration laid the groundwork for what would become a decades-long tradition of youth aviation education at Oshkosh.
 
 ## 1. Overview & Flight Physics
 At EAA AirVenture in Oshkosh, Wisconsin, the Control Line (CL) area at Pioneer Airport offers hands-on flight training for youth. Unlike computer simulators, control line flying provides direct, physical control feedback:
