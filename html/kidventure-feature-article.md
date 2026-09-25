@@ -36,6 +36,10 @@ The instructional fleet evolved across five distinct generations:
 5. **The "Eagle 1" (Chris Sterner):** Modern purpose-built electric Coroplast trainer designed by **Chris Sterner**, optimized for brushless power and Dave Siegler electronic timers.
 
 ### Eagle 1 Specifications & Bill of Materials
+*(Note: Complete construction details, full-size printable CAD plans, bill of materials, and step-by-step assembly instructions for the Eagle 1 will be featured as a companion construction article in Model Aviation for modelers and AMA clubs looking to build their own indestructible youth training fleet.)*
+
+The Eagle 1 represents the culmination of three decades of continuous flight-line evolution at EAA AirVenture. Engineered specifically by Chris Sterner to withstand the rigors of thousands of first-time student flights, the aircraft pairs durable 0.158″ (4mm) fluted polypropylene (Coroplast) with reliable electric brushless power and solid-state timer control.
+
 | Specification | Details | Materials & Construction Notes |
 | :--- | :--- | :--- |
 | **Wingspan** | 30-1/4 in. | Stable beginner geometry |

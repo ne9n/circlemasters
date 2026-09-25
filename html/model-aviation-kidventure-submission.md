@@ -65,27 +65,37 @@ The aircraft fleet evolved through continuous field testing to maximize durabili
 ---
 
 ## Aircraft Engineering: The Eagle 1 Trainer
+*(Note: Complete construction details, full-size printable CAD plans, bill of materials, and step-by-step assembly instructions for the Eagle 1 will be featured as a companion construction article in Model Aviation for modelers and AMA clubs looking to build their own indestructible youth training fleet.)*
+
+The Eagle 1 represents the culmination of three decades of continuous flight-line evolution at EAA AirVenture. Engineered specifically by Chris Sterner to withstand the rigors of thousands of first-time student flights, the aircraft pairs durable 0.158″ (4mm) fluted polypropylene (Coroplast) with reliable electric brushless power and solid-state timer control.
+
 | Specification | Details | Construction Notes |
 | :--- | :--- | :--- |
 | **Wingspan** | 30-1/4 in. | Stable beginner geometry |
 | **Wing Area** | 225–226 sq. in. | Low wing loading |
-| **Airframe Material** | 0.158-in. (4mm) Coroplast | Fluted polypropylene (Amerilux 24x36" sheets) |
-| **Assembly Adhesive** | High-temp hot-melt glue | Applied along full length of seams and flutes |
-| **Power System** | 2807 1300KV Outrunner & 30A ESC | 3.5mm bullet connectors; 2-blade electric prop |
-| **Flight Timer** | Solid-State Electronic Timer (Dave Siegler) | Governs RPM, soft start, and 2.5-min timed cutoff |
+| **Material** | 0.158-in. (4mm) Fluted Polypropylene (Coroplast) | Readily available sign board (Amerilux 24x36 in.) |
+| **Adhesives** | High-temp hot-melt glue | Applied along full length of seams and flutes |
+| **Power System** | 2807 1300KV Brushless Outrunner & 30A ESC | Fitted with 3.5mm bullet connectors |
+| **Flight Timer** | Custom Solid-State Electronic Timer (Dave Siegler) | Governs RPM, soft start, and 2.5-min cutoff |
 | **Flight Battery** | 3S LiPo Packs (Thunder Power RC) | Integrated fuselage battery tray |
-| **Control Hardware** | SIG 1/2-A Bellcrank & Control Horn | 1/16-in. music wire pushrod with Z-bend / Du-Bro Kwik-Link |
-| **Elevator Hinge** | 3M Blenderm Surgical Tape | Waterproof, flexible, and fatigue-proof |
-| **Wing Tip Weight** | 1/2 to 3/4 oz. lead | Embedded in outboard wing tip for line tension |
-| **Reinforcements** | Plywood mounts | 1/8-in. motor mount; 3/32-in. bellcrank platform |
-| **Industry Sponsors** | Cox, SIG, Brodak, Thunder Power RC | Airplanes, engines, fuel, hardware, LiPo packs |
-| **Plans & Distribution** | Free Full-Size PDF Download | Available at [circlemasters.com](https://circlemasters.com) or email `kidventurecl@outlook.com` |
+| **Control Hardware** | SIG 1/2-A Bellcrank, SIG / Du-Bro 919 Micro2 Horn | 1/16-in. music wire pushrod with Z-bend / Kwik-Link |
+| **Elevator Hinge** | 3M Blenderm Surgical Tape | Waterproof, flexible, and fatigue-proof (or clear packing tape) |
+| **Wing Tip Weight** | 1/2 to 3/4 oz. lead in outboard wing | Maintains positive line tension |
+| **Reinforcements** | 1/8-in. plywood motor mount; 3/32-in. bellcrank plate | Resists motor torque and line pull |
+| **Free Plans** | Full-Size PDF Download | Free download at [circlemasters.com](https://circlemasters.com) or email `kidventurecl@outlook.com` |
+
+### Power System Evolution & Industry Support
+The KidVenture fleet's propulsion evolved through three distinct eras:
+* **Cox .049 Era:** Foundation years powered by legendary Cox reed-valve glow engines, supported directly with engines and parts from **Cox**.
+* **Norvel .061 Era:** Transitioned to high-performance **Norvel .061 Big Mig** engines (turning 6x3 props) on the Bob Arata / Dan McEntee Coroplast **Tough Baby** (drawn by Art Johnson) and **Bratco Skybabies**, supplied and backed by **SIG Manufacturing** with fuel, lines, and building supplies.
+* **Modern Brushless Electric Era:** Powered by 2807 1300KV outrunners and Siegler solid-state timers, supported by battery manufacturers including **Thunder Power RC**. Electric power eliminated hot restarts, needle valve tuning, and fuel cleanup, enabling rapid flight turnover.
 
 ---
 
-## Sponsor Progression Across Eras
-* **Cox .049 Era:** Supported by Cox with engines, glow plugs, and replacement parts.
-* **Norvel .061 Era:** Transitioned to **Norvel .061 Big Mig** engines (6x3 props) and **Skybaby** airplanes, supplied and supported by **SIG Manufacturing** alongside fuel, building supplies, and hardware.
+## Industry & Community Sponsors
+Over 30 years, generous aeromodeling manufacturers and partners have kept the flight lines equipped:
+* **Cox:** Provided initial engines, glow plugs, and technical support.
+* **SIG Manufacturing:** Major sponsor supplying **Skybaby** airplanes, **Norvel .061** engines, fuel, lines, and building materials.
 * **Brodak Manufacturing:** Longtime community supporter providing control line kits, hardware, and parts.
 * **Thunder Power RC:** Supplied high-performance LiPo flight packs during the electric transition.
 * **Circle Masters Flying Club:** Fabricates airframes, maintains electronics, and oversees annual operations.
@@ -133,17 +143,26 @@ Between training flights, master pilots demonstrate high-performance disciplines
 
 ---
 
-## Video Archive & Media Resources
-* **Video 1 (KidVenture Overview):** Geri MacArthur and team on flight line setup and youth training: `https://www.youtube.com/watch?v=LLvLptZO51Q`
-* **Video 2 (Arthur Johnson Interview):** Arthur Johnson on engine maintenance, line tension, and mentorship: `https://www.youtube.com/watch?v=3VVK0B_YBp8`
-* **Video 3 (Bob Arata Interview):** Bob Arata demonstrating the dual-handle technique and Coroplast airframe durability: `https://www.youtube.com/watch?v=_k9OipR_-4w`
-* **Video 4 (Flight Line Demonstrations):** Student training and pulse jet flights: `https://www.youtube.com/watch?v=GFOkGf6pCP8`
+### [PHOTO 5: Precision Stunt Demonstration]
+*Caption: A full-pattern stunt airplane during an inverted pass over Pioneer Airport.*
 
 ---
 
-## Resources & Links
-* **Circle Masters Flying Club:** [circlemasters.com](https://circlemasters.com) (Free downloadable Eagle 1 plans, construction manual, bill of materials)
-* **Program Email:** `kidventurecl@outlook.com`
+## Club Event Takeaways
+1. **Use Coroplast Airframes:** Resists crash damage and repairs quickly with hot glue.
+2. **Use Electric Timers:** Eliminates fuel handling and speeds up flight cycling.
+3. **Use Dual-Handle Coaching:** Keeps flights safe and prevents over-controlling.
+4. **Keep Flights Short (2–3 Minutes):** Prevents student dizziness and reduces queue times.
+5. **Distribute Take-Home Plans:** Provide links to local clubs and free plans so families can continue flying.
+
+---
+
+## Reference Links & Videos
+* **Circle Masters Plans & Guides:** [circlemasters.com](https://circlemasters.com)
 * **KidVenture CL Volunteer Portal:** [kvcontrolline.weebly.com](https://kvcontrolline.weebly.com/)
-* **EAA KidVenture Official Page:** [eaa.org/airventure/features-and-attractions/kidventure](https://www.eaa.org/airventure/features-and-attractions/kidventure)
-* **KITPLANES Magazine Feature:** [kitplanes.com/flying-lessons-at-kidventure](https://www.kitplanes.com/flying-lessons-at-kidventure/) (by Barnaby Wainfan)
+* **EAA KidVenture Official Page:** [eaa.org/airventure/.../kidventure](https://www.eaa.org/airventure/features-and-attractions/kidventure)
+* **KITPLANES (Barnaby Wainfan):** [kitplanes.com/flying-lessons-at-kidventure](https://www.kitplanes.com/flying-lessons-at-kidventure/)
+* **Video - Geri MacArthur & Flight Overview:** [youtu.be/LLvLptZO51Q](https://www.youtube.com/watch?v=LLvLptZO51Q)
+* **Video - Arthur Johnson Interview:** [youtu.be/3VVK0B_YBp8](https://www.youtube.com/watch?v=3VVK0B_YBp8)
+* **Video - Bob Arata Interview:** [youtu.be/_k9OipR_-4w](https://www.youtube.com/watch?v=_k9OipR_-4w)
+* **Video - Flight Line Action:** [youtu.be/GFOkGf6pCP8](https://www.youtube.com/watch?v=GFOkGf6pCP8)
