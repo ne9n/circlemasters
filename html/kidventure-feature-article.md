@@ -31,7 +31,7 @@ The flight line operates seamlessly through two vital, collaborative roles: the 
 When a young flyer steps into the circle, anticipation runs high. Registration coordinators **Doug & Geri MacArthur** and **Melissa Olson** welcome the family, fit the student with safety glasses, and introduce them to their flight instructor. 
 
 In the center of the 50-foot circle, the instructor delivers a concise, memorable pre-flight briefing:
-* **Wrist Pitch Control:** Tilting the wrist backward pulls the top line, raising the elevator to climb; tilting forward lowers the elevator to descend.
+* **Elevator Opeation :** Tilting the wrist backward pulls the top line, raising the elevator to climb; tilting forward lowers the elevator to descend.
 * **Arm Extension & Line Tension:** Keeping the arm steady and walking in rhythm maintains the essential centrifugal line tension needed to control the aircraft against gusting Oshkosh winds.
 
 ### The Pit Crew & Hand-Launch Protocol
