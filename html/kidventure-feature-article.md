@@ -6,7 +6,7 @@
 
 ---
 
-## 1. Introduction: Flight at the Fingertips
+## Introduction: Flight at the Fingertips
 Every summer, tens of thousands of aviation enthusiasts descend upon Oshkosh, Wisconsin, for EAA AirVenture. Among the roar of warbirds, modern aerobatic performers, and endless rows of experimental aircraft, a very special corner of Pioneer Airport buzzes with the pure, unadulterated excitement of flight. 
 
 Here at **KidVenture**, where young attendees build wooden wing ribs, rivet sheet metal, and test flight simulators, the **Control Line (CL) Flight Circles** deliver something truly magical: the visceral, unforgettable experience of commanding an airplane in real flight with their own hands.
@@ -15,22 +15,22 @@ Holding a control handle tethered to dual steel lines, a child feels the mechani
 
 ---
 
-## 2. The Roots of Control Line at AirVenture
+## The Roots of Control Line at AirVenture
 Control line flying at Oshkosh actually predates the formal establishment of KidVenture. Seeking engaging, hands-on activities that would allow kids to touch and fly real airplanes, **Sean Elliott**—a former Junior National Stunt Champion and future EAA Vice President—teamed up with **Jim Krueger** and the **Milwaukee Circle Masters**. 
 
 In an unforgettable recruiting mission, Elliott flew EAA's full-scale **Spirit of St. Louis** replica directly to the annual SIG Manufacturing control line contest in Montezuma, Iowa. Landing the historic aircraft in Iowa, Elliott and Krueger approached longtime competitor **Dan McEntee** to recruit seasoned modelers from the St. Louis area, including **Bob Arata** and **Jan Potts**, to join the Oshkosh flight line crew. That dramatic arrival and handshake in Iowa ignited a multi-decade aeromodeling mission that has united clubs across the Midwest and beyond.
 
 ---
 
-## 3. A Day on the Flight Line: The Anatomy of a First Flight
+## A Day on the Flight Line: The Anatomy of a First Flight
 The daily rhythm at Pioneer Airport is a study in choreographed teamwork. Operating seven days during AirVenture week across two simultaneous turf circles, the team handles an average of **1,400 to 1,800 youth flights per week**, reaching record peaks of **2,500 flights** in a single convention.
 
 The flight line operates seamlessly through two vital, collaborative roles: the **Flight Instructor (Pilot)** and the **Pit Crew**.
 
 ### The Ground Briefing & The Handle
-When a young flyer steps into the circle, anticipation runs high. Registration coordinators **Doug & Geri MacArthur** and **Melissa Olson** welcome the family, fit the student with safety glasses, and introduce them to their flight instructor. 
+When a young flyer steps into the circle, anticipation runs high. Registration coordinators and line manager welcome the family and keep them in behind the safety ropes till it their turn. 
 
-In the center of the 50-foot circle, the instructor delivers a concise, memorable pre-flight briefing:
+In the center of the 50-foot circle, the instructor delivers a concise, pre-flight briefing:
 * **Elevator Opeation :** Tilting the wrist backward pulls the top line, raising the elevator to climb; tilting forward lowers the elevator to descend.
 * **Arm Extension & Line Tension:** Keeping the arm steady and walking in rhythm maintains the essential centrifugal line tension needed to control the aircraft against gusting Oshkosh winds.
 
