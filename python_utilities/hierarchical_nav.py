@@ -64,6 +64,7 @@ hierarchy = [
     ("Special", "#", [
         ("EAA Kidventure", "./kidventure.html"),
         ("Eagle 1 Airplane Kidventure", "./eagle-1-airplane-kidventure.html"),
+        ("KidVenture Feature Article", "./kidventure-feature-article.html"),
         ("Club Contest", "./club-contest.html"),
         ("Building Contest 2019", "./building-contest-2019.html"),
         ("Building Contest 2017", "./building-contest-2017.html"),
